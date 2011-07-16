@@ -563,6 +563,48 @@
         <SPAWN id="334" group="0" name="야생 우르크" x="22022.380859" y="34543.484375" z="2179.480713" dir_x="1.000000" dir_y="0.000000" dir_z="0.000000" radius="300.000000" random_dir="true" enabled="true" start_time="0" respawn_time="100" roam_radius="500" roam_depth="30" combat_radius="0" color="255,255,0">
             <NPC id="107045" default="true" rate="10" />
         </SPAWN>
+        <SPAWN id="537" group="0" name="Vesphio Members" x="57626.050822" y="61436.554732" z="406.892334" dir_x="1.000000" dir_y="0.002000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+            <NPC id="107012" default="true" rate="10" />
+        </SPAWN>
+				<SPAWN id="538" group="0" name="Vesphio Members" x="62345.450859" y="59405.726675" z="536.848755" dir_x="1.000000" dir_y="0.010000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107011" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="538" group="0" name="Vesphio Members" x="62572.450859" y="61005.726622" z="563.548755" dir_x="1.000000" dir_y="0.000300" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107012" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="539" group="0" name="Vesphio Members" x="63128.450859" y="60055.726575" z="565.698733" dir_x="1.000000" dir_y="0.023000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107011" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="540" group="0" name="Vesphio Members" x="61814.450859" y="59904.724612" z="533.462245" dir_x="1.000000" dir_y="0.004000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107012" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="541" group="0" name="Vesphio Members" x="61865.450859" y="60866.623235" z="565.848756" dir_x="1.000000" dir_y="0.000050" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107011" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="542" group="0" name="Vesphio Members" x="57466.450859" y="62932.428971" z="308.433721" dir_x="1.000000" dir_y="0.060000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107011" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="543" group="0" name="Vesphio Members" x="62504.450859" y="60094.822215" z="533.868756" dir_x="1.000000" dir_y="0.000700" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107012" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="544" group="0" name="Vesphio Members" x="59472.450859" y="61215.324811" z="301.468775" dir_x="1.000000" dir_y="0.000080" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107011" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="545" group="0" name="Vesphio Members" x="58472.450859" y="62715.526675" z="302.468723" dir_x="1.000000" dir_y="0.009000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107012" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="546" group="0" name="Vesphio Members" x="58701.450859" y="60724.126675" z="394.154743" dir_x="1.000000" dir_y="0.011000" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="200" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107012" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="547" group="0" name="Vesphio Members" x="59331.450859" y="61955.926675" z="407.248732" dir_x="1.000000" dir_y="0.000220" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="200" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107011" default="true" rate="10" />
+		    </SPAWN>
+				<SPAWN id="548" group="0" name="Vesphio Members" x="59123.450859" y="62894.226675" z="412.154791" dir_x="1.000000" dir_y="0.003600" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="200" roam_depth="50" combat_radius="0" color="255,0,0">
+		            <NPC id="107012" default="true" rate="10" />
+        </SPAWN>
+        <SPAWN id="549" group="0" name="Vesphio Members" x="58376.450859" y="62197.426675" z="355.154714" dir_x="1.000000" dir_y="0.013200" dir_z="0.000000" radius="220.000000" random_dir="true" enabled="true" start_time="10" respawn_time="120" roam_radius="200" roam_depth="50" combat_radius="0" color="255,0,0">
+            <NPC id="107011" default="true" rate="10" />
+        </SPAWN>		
         <SPAWN id="550" group="0" name="베스피오단 중급" x="52383.093750" y="66796.070313" z="246.328018" dir_x="0.978148" dir_y="0.207912" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="10" respawn_time="120" roam_radius="0" roam_depth="50" combat_radius="0" color="255,0,0">
             <NPC id="107013" default="false" rate="250" />
             <NPC id="107014" default="false" rate="250" />
@@ -1631,8 +1673,8 @@
             <NPC id="107032" default="false" rate="500" />
             <NPC id="107047" default="false" rate="500" />
         </SPAWN>
-        <SPAWN id="10000" group="0" name="[NPC] 록히드" x="66178.382813" y="48662.421875" z="599.994690" dir_x="-0.052336" dir_y="0.998630" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="1" respawn_time="1" roam_radius="0" roam_depth="0" combat_radius="0" color="0,128,255">
-            <NPC id="8895003" default="true" rate="1000" />
+				<SPAWN id="10000" group="0" name="[NPC] landlord Lockheed" x="66178.382813" y="48662.421875" z="593.994690" dir_x="-0.052336" dir_y="0.998630" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="1" respawn_time="1" roam_radius="0" roam_depth="0" combat_radius="0" color="0,128,255">
+            <NPC id="107201" default="true" rate="1000" />
         </SPAWN>
         <SPAWN id="10001" group="0" name="[NPC] 노엘" x="67826.625000" y="47641.429688" z="593.257507" dir_x="0.000001" dir_y="1.000000" dir_z="0.000000" radius="0.000000" random_dir="false" enabled="true" start_time="1" respawn_time="1" roam_radius="0" roam_depth="0" combat_radius="0" color="0,128,255">
             <NPC id="107202" default="true" rate="1000" />
