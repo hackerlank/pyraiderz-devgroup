@@ -9,18 +9,18 @@
 	</NPC>
 
 	<!-- E3 // -->
-	<NPC id="8894020" comment="고블린골렘">
+	<NPC id="8894020" comment="Jeremiah and Havlin's Goal">
 		<BPART id="1" frag="4" rate="100" loot="5400009" dir="right"/>
 		<BPART id="1" frag="5" rate="100" loot="5400009" dir="left"/>
 		<BPART id="1" frag="9" rate="100" loot="5400009" dir="front"/>
 	</NPC>
-	<NPC id="8894021" comment="보르고">
+	<NPC id="8894021" comment="Look At">
 		<BPART id="1" frag="9" rate="100" loot="5400008" dir="left"/>
 	</NPC>
-	<NPC id="8894022" comment="소레나">
+	<NPC id="8894022" comment="Lenau">
 		<BPART id="1" frag="7" rate="100" loot="5400000" dir="front"	/>
 	</NPC>
-	<NPC id="8895002" comment="소레나(e3퍼블릭)">
+	<NPC id="8895002" comment="Irenaeus So(E-3 Public)">
 		<BPART id="1" frag="7" rate="100" loot="5400000" dir="front"	/>
 	</NPC>
 	<NPC id="8895000" comment="호수 트롤">
