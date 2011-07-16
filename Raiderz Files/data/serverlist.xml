@@ -10,11 +10,7 @@
   </GameServer>
   
 
-  <GameServer id="2">
-    <SharedField id="3" channel="2" />
-    <SharedField id="107" channel="2" />
-    <SharedField id="109" channel="2" />
-  </GameServer>
+ 
 
   <!-- CBT용
   <GameServer id="3">
