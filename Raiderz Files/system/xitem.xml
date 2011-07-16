@@ -283,7 +283,7 @@
     <ITEM id="2573" name="#NPC 신성 하의" desc="NPC전용. PC용은 다른 ID" mesh_name="heavy_faith" mesh_name_by_sex="True" node_name="legs" texcolor="1F1F1F" Item_sound="cloth" type="armor" condition="1" sex="All" slot="leg" armor_type="cloth" claim_required="True" tradable="False" item_level="1" buying_price="1" selling_price="1" repair_grade="1" stack_amount="1" max_durability="42" AP="132" icon="Data/Interface/icon/ex_cloth_legs_0022.png" EquipEnchantSlot="X,R,R" />
     <ITEM id="2574" name="#NPC 신성 장갑" desc="NPC전용. PC용은 다른 ID" mesh_name="heavy_faith" mesh_name_by_sex="True" node_name="hands" texcolor="1F1F1F" Item_sound="cloth" type="armor" condition="1" sex="All" slot="hands" armor_type="cloth" claim_required="True" tradable="False" item_level="1" buying_price="1" selling_price="1" repair_grade="1" stack_amount="1" max_durability="42" AP="132" icon="Data/Interface/icon/ex_cloth_glove_0012.png" EquipEnchantSlot="X,R,R" />
     <ITEM id="2575" name="#NPC 신성 장화" desc="NPC전용. PC용은 다른 ID" mesh_name="heavy_faith" mesh_name_by_sex="True" node_name="feet" texcolor="1F1F1F" Item_sound="cloth" type="armor" condition="1" sex="All" slot="feet" armor_type="cloth" claim_required="True" tradable="False" item_level="1" buying_price="1" selling_price="1" repair_grade="1" stack_amount="1" max_durability="42" AP="132" icon="Data/Interface/icon/ex_cloth_feet_0012.png" EquipEnchantSlot="X,R,R" />
-    <!--  평상복 (색/종류)  -->
+    <!--  Casual(Color / Type)  -->
     <ITEM id="9002" name="갈색 작업복 상의" mesh_name="cloth_armor_novice_00" mesh_name_by_sex="True" node_name="chest" texcolor="534741" Item_sound="cloth" type="armor" condition="1" sex="All" slot="body" armor_type="cloth" buying_price="26" selling_price="6" repair_grade="1" stack_amount="1" max_durability="20" AP="4" icon="Data/Interface/icon/ex_leather_chest_001.png" Dyeable ="False" />
     <ITEM id="9012" name="회색 작업복 상의" mesh_name="cloth_armor_novice_00" mesh_name_by_sex="True" node_name="chest" texcolor="B0B0B0" Item_sound="cloth" type="armor" condition="1" sex="All" slot="body" armor_type="cloth" buying_price="26" selling_price="6" repair_grade="1" stack_amount="1" max_durability="20" AP="4" icon="Data/Interface/icon/ex_leather_chest_001.png" Dyeable ="False" />
     <ITEM id="9022" name="검정색 작업복 상의" mesh_name="cloth_armor_novice_00" mesh_name_by_sex="True" node_name="chest" texcolor="403C30" Item_sound="cloth" type="armor" condition="1" sex="All" slot="body" armor_type="cloth" buying_price="26" selling_price="6" repair_grade="1" stack_amount="1" max_durability="20" AP="4" icon="Data/Interface/icon/ex_leather_chest_001.png" Dyeable ="False" />
@@ -380,7 +380,7 @@
     <ITEM id="9405" name="일마리 모험가 신발" mesh_name="cloth_novice_04" mesh_name_by_sex="True" node_name="feet" Item_sound="cloth" type="armor" condition="1" sex="All" slot="feet" armor_type="cloth" buying_price="30" selling_price="7" repair_grade="1" stack_amount="1" max_durability="20" AP="4" icon="Data/Interface/icon/ex_leather_feet_001.png" Dyeable ="False" />
     <ITEM id="9505" name="벤투스 모험가 신발" mesh_name="cloth_novice_05" mesh_name_by_sex="True" node_name="feet" Item_sound="cloth" type="armor" condition="1" sex="All" slot="feet" armor_type="cloth" buying_price="30" selling_price="7" repair_grade="1" stack_amount="1" max_durability="20" AP="4" icon="Data/Interface/icon/ex_leather_feet_001.png" />
     <ITEM id="9605" name="소렌트 모험가 신발" mesh_name="cloth_novice_06" mesh_name_by_sex="True" node_name="feet" Item_sound="cloth" type="armor" condition="1" sex="All" slot="feet" armor_type="cloth" buying_price="30" selling_price="7" repair_grade="1" stack_amount="1" max_durability="20" AP="4" icon="Data/Interface/icon/ex_leather_feet_001.png" Dyeable ="False" />
-    <!--  퀘스트 아이템  -->
+    <!--  Quest Item  -->
     <ITEM id="10000" name="산양의 모피" desc="산양에게서 벗겨낸 모피. 두꺼운 털이 많아 따듯하고 보온성이 좋습니다." Item_sound="leather" type="inventory" quest_related="True" tradable="False" sellable="False" discardable="True" selling_price="0" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_fur01.png" />
     <ITEM id="10001" name="굵은 장작개비" Item_sound="wood" type="inventory" quest_related="True" tradable="False" sellable="False" discardable="True" selling_price="0" stack_amount="30" max_durability="0" icon="Data/Interface/icon/item_lumber02.png" />
     <ITEM id="10002" name="라만다 풀" desc="순례자 그레고리가 찾고 있는 동상 치료에 좋은 약초" Item_sound="universal" type="inventory" quest_related="True" tradable="False" sellable="False" discardable="True" selling_price="0" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_grass01.png" />
@@ -591,8 +591,8 @@
     <ITEM id="10310" name="#유령잔류물_" Item_sound="universal" type="inventory" quest_related="True" tradable="False" sellable="False" discardable="True" selling_price="0" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_ashes01.png" />
     <ITEM id="10311" name="#농축된_유령잔류물_" Item_sound="universal" type="inventory" quest_related="True" tradable="False" sellable="False" discardable="True" selling_price="0" stack_amount="5" max_durability="0" icon="Data/Interface/icon/item_ashes01.png" />
     <ITEM id="10320" name="고블린 주술사의 이상한 가루" desc="고블린 주술사들이 사용하는 이상한 가루. 냄새도 독하고 끈적거립니다. " Item_sound="universal" type="inventory" quest_related="True" tradable="False" sellable="False" discardable="True" unique="True" selling_price="0" stack_amount="1" max_durability="0" icon="Data/Interface/icon/Item_Medium4.png" />
-    <!--  상점 판매용 잡템 20000~  -->
-    <!--  테레스 평원, 렌고트 부락, 부러진 돛대  -->
+    <!--  Retail stores japtem 20000~  -->
+    <!--  Terres plains, rengoteu village, the wreckage  -->
     <ITEM id="20001" name="피투성이 털" tier="Very Common" Item_sound="universal" type="inventory" item_level="6" selling_price="14" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_skin07.png" />
     <ITEM id="20002" name="벌의 사체" tier="Very Common" Item_sound="organ" type="inventory" item_level="5" selling_price="10" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_sting01.png" />
     <ITEM id="20003" name="넝마조각" tier="Very Common" Item_sound="cloth" type="inventory" item_level="5" selling_price="10" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_clothpiece01.png" />
@@ -605,7 +605,7 @@
     <ITEM id="20010" name="망가진 가죽 혁대" tier="Very Common" Item_sound="leather" type="inventory" item_level="4" selling_price="7" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_buckle01.png" />
     <ITEM id="20011" name="찢어진 천조각" tier="Very Common" Item_sound="cloth" type="inventory" item_level="5" selling_price="10" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_clothpiece01.png" />
     <ITEM id="20012" name="해적의 보물" tier="Very Common" desc="해적의 값 나가는 보물. 상점에 비싸게 판매할 수 있을 거 같습니다." Item_sound="jewel" type="inventory" item_level="18" selling_price="110" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_ring01.png" />
-    <!--  영웅의 오솔길, 저주받은 납골당, 오염된 화원  -->
+    <!--  Hero's Trail, Cursed Crypt, dirty garden  -->
     <ITEM id="20100" name="부서진 해골" tier="Very Common" Item_sound="wood" type="inventory" item_level="13" selling_price="58" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skull01.png" />
     <ITEM id="20101" name="산산조각 난 뼈" tier="Very Common" Item_sound="wood" type="inventory" item_level="12" selling_price="50" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_ashes01.png" />
     <ITEM id="20102" name="녹슨 화살촉" tier="Very Common" Item_sound="cutlery" type="inventory" item_level="12" selling_price="50" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_arrowhead01.png" />
@@ -617,7 +617,7 @@
     <ITEM id="20108" name="깨진 도기" tier="Very Common" Item_sound="universal" type="inventory" item_level="12" selling_price="50" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_bowl01.png" />
     <ITEM id="20109" name="휘어진 동전" tier="Very Common" Item_sound="coin" type="inventory" item_level="11" selling_price="43" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_coin01.png" />
     <ITEM id="20110" name="냄새 나는 고기" tier="Very Common" Item_sound="organ" type="inventory" item_level="10" selling_price="36" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_meat01.png" />
-    <!--  에다산, 마코트 부락  -->
+    <!--  Edasan, Marcotte village  -->
     <ITEM id="20200" name="잡동사니" tier="Very Common" desc="코볼트가 여기저기서 끌어모은 잡동사니들" Item_sound="iron" type="inventory" item_level="17" selling_price="97" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_sack02.png" />
     <ITEM id="20201" name="깨진 동물의 뼈" tier="Very Common" Item_sound="wood" type="inventory" item_level="17" selling_price="97" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_bone01.png" />
     <ITEM id="20202" name="훼손된 깃털" tier="Very Common" desc="손상이 심한 하피의 깃털" Item_sound="universal" type="inventory" item_level="18" selling_price="108" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_sack01.png" />
@@ -626,30 +626,30 @@
     <ITEM id="20205" name="찢어진 날개" tier="Very Common" desc="냄새나고 지저분한 박쥐 날개" Item_sound="paper" type="inventory" item_level="19" selling_price="120" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_batwing01.png" />
     <ITEM id="20206" name="마귀벌레 등껍질" tier="Very Common" desc="검붉고 딱딱한 마귀벌레의 등껍질" Item_sound="wood" type="inventory" item_level="20" selling_price="132" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin08.png" />
     <ITEM id="20207" name="보석 파편" tier="Very Common" desc="코볼트가 몰래 빼돌린 흠집나고 깨어져서 거의 쓸모 없는 보석의 파편조각" Item_sound="stone" type="inventory" item_level="21" selling_price="145" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_juwelpiece01.png" />
-    <!--  소모성 아이템 30000~  -->
-    <!--  인젠, 에이리스가 파는 음식  -->
+    <!--  Consumable items 30000~  -->
+    <!--  Injen, sells food Ayres  -->
     <ITEM id="30001" name="소금에 절인 돼지고기" desc="사용하면 음식을 먹는 10초 동안 총 160의 생명력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="12" usable_type="talent_use" usable_param="114040" usable_consume="True" buying_price="42" selling_price="10" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_pork09.png" />
     <ITEM id="30002" name="천연 과일 주스" desc="사용하면 즉시 100의 생명력을 회복합니다. " Item_sound="liquid" type="usable" condition="12" usable_type="talent_use" usable_param="114041" usable_consume="True" buying_price="42" selling_price="10" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_juice01.png" />
     <ITEM id="30003" name="훈제 거위고기" desc="사용하면 음식을 먹는 10초 동안 총 180의 생명력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="15" usable_type="talent_use" usable_param="114042" usable_consume="True" buying_price="64" selling_price="16" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_pork06.png" />
     <ITEM id="30004" name="달콤한 꿀물" desc="사용하면 즉시 140의 생명력을 회복합니다." Item_sound="liquid" type="usable" condition="15" usable_type="talent_use" usable_param="114043" usable_consume="True" buying_price="64" selling_price="16" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_honey01.png" />
     <ITEM id="30005" name="상어고기 요리" desc="사용하면 음식을 먹는 10초 동안 총 200의 생명력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="18" usable_type="talent_use" usable_param="114044" usable_consume="True" buying_price="90" selling_price="22" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_pork03.png" />
     <ITEM id="30006" name="그랑 크뤼 프리미에르" desc="사용하면 음식을 먹는 10초 동안 총 250의 생명력을 회복하고, 200의 정신력을 감소시킵니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="liquid" type="usable" condition="18" usable_type="talent_use" usable_param="114045" usable_consume="True" buying_price="90" selling_price="22" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_beer02.png" />
-    <!--  인젠, 티모트 여관에서 파는 음식  -->
+    <!--  Injen, timoteu selling food at the inn  -->
     <ITEM id="30011" name="생선 구이" desc="사용하면 음식을 먹는 10초 동안 총 100의 생명력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="3" usable_type="talent_use" usable_param="114034" usable_consume="True" buying_price="4" selling_price="1" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_grilledfish01.png" />
     <ITEM id="30012" name="탄산수" desc="사용하면 음식을 먹는 10초 동안 총 80의 생명력과 40의 정신력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="liquid" type="usable" condition="3" usable_type="talent_use" usable_param="114035" usable_consume="True" buying_price="4" selling_price="1" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_juice01.png" />
     <ITEM id="30013" name="사과 파이" desc="사용하면 음식을 먹는 10초 동안 총 120의 생명력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="6" usable_type="talent_use" usable_param="114036" usable_consume="True" buying_price="12" selling_price="3" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_butter01.png" />
     <ITEM id="30014" name="신선한 우유" desc="사용하면 즉시 60의 생명력을 회복합니다." Item_sound="liquid" type="usable" condition="6" usable_type="talent_use" usable_param="114037" usable_consume="True" buying_price="12" selling_price="3" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_kettle01.png" />
     <ITEM id="30015" name="양고기 스튜" desc="사용하면 음식을 먹는 10초 동안 총 140의 생명력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="9" usable_type="talent_use" usable_param="114038" usable_consume="True" buying_price="25" selling_price="6" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_stew01.png" />
     <ITEM id="30016" name="맥주" desc="사용하면 음식을 먹는 10초 동안 총 190의 생명력을 회복하고, 140의 정신력을 감소시킵니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="liquid" type="usable" condition="9" usable_type="talent_use" usable_param="114039" usable_consume="True" buying_price="25" selling_price="6" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_beer01.png" />
-    <!--  인젠, 아이스크림 상인이 파는 음식  -->
+    <!--  Injen, ice-cream traders selling food  -->
     <ITEM id="30021" name="아이스 밀크" desc="사용하면 음식을 먹는 5초 동안 총 70의 생명력, 정신력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="4" usable_type="talent_use" usable_param="114046" usable_consume="True" buying_price="6" selling_price="1" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_kettle02.png" />
     <ITEM id="30022" name="젤라또" desc="사용하면 음식을 먹는 5초 동안 총 80의 생명력, 정신력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="8" usable_type="talent_use" usable_param="114047" usable_consume="True" buying_price="20" selling_price="5" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_gelato01.png" />
     <ITEM id="30023" name="샤베트" desc="사용하면 음식을 먹는 5초 동안 총 90의 생명력, 정신력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="12" usable_type="talent_use" usable_param="114048" usable_consume="True" buying_price="42" selling_price="10" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_gelato02.png" />
     <ITEM id="30024" name="돌체비타" desc="사용하면 음식을 먹는 5초 동안 총 100의 생명력, 정신력을 회복합니다. 회복 시간 중 공격을 받으면 3배의 피해를 입습니다." Item_sound="universal" type="usable" condition="16" usable_type="talent_use" usable_param="114049" usable_consume="True" buying_price="72" selling_price="18" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_gelato03.png" />
-    <!--  인젠  -->
+    <!--  Injen  -->
     <ITEM id="30031" name="#자수실_" Item_sound="universal" type="inventory" buying_price="10" selling_price="0" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_skein01.png" />
     <ITEM id="30032" name="#굵은실_" Item_sound="universal" type="inventory" buying_price="10" selling_price="0" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_skein02.png" />
-    <!--  사용성 아이템  -->
+    <!--  Usability items  -->
     <ITEM id="31000" name="오우거 힘의 물약" tier="Treasure" desc="사용하면 10분 동안 힘이 12 증가하게 됩니다." Item_sound="liquid" type="usable" condition="8" usable_type="talent_use" usable_param="110000" usable_consume="True" tradable="False" discardable="True" item_level="10" buying_price="144" selling_price="36" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_potion05.png" />
     <ITEM id="31001" name="약화 물약" desc="공격력이 약해집니다." Item_sound="liquid" type="usable" condition="1" usable_type="talent_use" usable_param="110001" usable_consume="True" tradable="False" discardable="True" buying_price="40" selling_price="20" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_potion05.png" />
     <ITEM id="31002" name="부정의 완드" tier="Treasure" desc="사용하면 원거리의 대상에게 암흑 피해를 줍니다." Item_sound="wood" type="usable" condition="15" usable_type="talent_use" usable_param="110002" usable_consume="False" tradable="False" sellable="True" discardable="True" unique="True" item_level="18" buying_price="480" selling_price="120" stack_amount="1" max_durability="0" icon="Data/Interface/icon/ex_stf_0042.png" />
@@ -671,7 +671,7 @@
     <ITEM id="32006" name="순수한 에다앙" tier="Rare" desc="에다산 만년설을 녹인 순수한 상태의 원시수입니다. 마시면 120의 생명력이 회복됩니다." Item_sound="liquid" type="usable" usable_type="talent_use" usable_param="113005" usable_consume="True" tradable="False" sellable="False" discardable="True" item_level="20" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_potion04.png" />
     <ITEM id="32007" name="#초심자용 망각의 금서" tier="Treasure" desc="습득한 모든 스킬이 초기화 되고 LP를 되돌려 받을 수 있습니다. 획득한 라이센스 역시 초기화 됩니다. 10레벨 이하만 사용가능합니다." Item_sound="paper" type="usable" condition="1010" usable_type="talent_untrain" tradable="False" sellable="False" discardable="True" unique="False" buying_price="50000" selling_price="12500" stack_amount="1" icon="Data/Interface/icon/item_book01.png" />
     <ITEM id="32100" name="성수" tier="Rare" desc="사용하면 죽음의 오오라로부터 일정 시간 지켜줍니다." Item_sound="liquid" type="usable" usable_type="talent_use" usable_param="110011" usable_consume="False" tradable="False" discardable="True" unique="True" item_level="25" buying_price="1" selling_price="1" stack_amount="1" max_durability="0" icon="Data/Interface/icon/item_potion05.png" />
-    <!--  라이센스  -->
+    <!--  License  -->
     <ITEM id="33003" name="#무기사용:쌍 단검 라이센스" tier="Rare" Item_sound="paper" type="usable" usable_type="talent_train" usable_param="80003" usable_consume="True" tradable="False" sellable="False" discardable="True" unique="True" />
     <ITEM id="33005" name="#무기사용:양손둔기 라이센스" tier="Rare" Item_sound="paper" type="usable" usable_type="talent_train" usable_param="80005" usable_consume="True" tradable="False" sellable="False" discardable="True" unique="True" />
     <ITEM id="33007" name="#무기사용:총 라이센스" tier="Rare" Item_sound="paper" type="usable" usable_type="talent_train" usable_param="80007" usable_consume="True" tradable="False" sellable="False" discardable="True" unique="True" />
@@ -735,57 +735,57 @@
     <!--  영혼석 34000~  -->
     <ITEM id="34000" name="영혼석" Item_sound="stone" icon="Data/Interface/icon/item_gstone01.png" />
     <!--  악세서리  -->
-    <!--  스텟조정 악세사리 41000~  -->
+    <!--  Stat adjustments Accessories 41000~  -->
     <ITEM id="41000" name="음유시인의 반지" Item_sound="jewel" type="armor" slot="finger" armor_type="accessory" claim_required="True" tradable="False" sellable="True" discardable="True" unique="True" selling_price="10" stack_amount="1" max_durability="0" ModSTR="3" icon="Data/Interface/icon/item_ring01.png" />
     <!--  채집 도구  -->
-    <!--  채집 도구  -->
+    <!--  Picking Tools  -->
     <ITEM id="49000" name="곡괭이" desc="광맥을 캘 때 사용합니다." Item_sound="cutlery" type="gather" gather_type="mine" item_level="5" buying_price="120" selling_price="30" stack_amount="1" max_durability="0" icon="Data/Interface/icon/item_pickax01.png" />
     <ITEM id="49001" name="모종삽" desc="식물을 채집할 때 사용합니다." Item_sound="cutlery" type="gather" gather_type="herb" item_level="5" buying_price="94" selling_price="24" stack_amount="1" max_durability="0" icon="Data/Interface/icon/item_trowel01.png" />
     <ITEM id="49002" name="자물쇠 해제 도구" desc="보물 상자의 자물쇠를 해제할 수 있습니다." Item_sound="iron" type="gather" gather_type="relic" item_level="5" buying_price="52" selling_price="12" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_pin01.png" />
     <!--  조합용 아이템 50000~59999  -->
-    <!--  기본 재료 (50001 ~ 50499)  -->
-    <ITEM id="50001" name="구리" Item_sound="stone" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone06.png" />
-    <ITEM id="50002" name="철" Item_sound="stone" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone09.png" />
-    <ITEM id="50003" name="우스틸" Item_sound="stone" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone05.png" />
+    <!--  Base material (50001 ~ 50499)  -->
+    <ITEM id="50001" name="Copper" Item_sound="stone" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone06.png" />
+    <ITEM id="50002" name="Iron" Item_sound="stone" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone09.png" />
+    <ITEM id="50003" name="Usteel" Item_sound="stone" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone05.png" />
     <ITEM id="50004" name="#이름 미정" Item_sound="stone" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone02.png" />
-    <ITEM id="50005" name="#티타늄" Item_sound="stone" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone11.png" />
-    <ITEM id="50051" name="리넨 옷감" Item_sound="cloth" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth01.png" />
-    <ITEM id="50052" name="양모 옷감" Item_sound="cloth" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth02.png" />
-    <ITEM id="50053" name="무명 옷감" Item_sound="cloth" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth05.png" />
-    <ITEM id="50054" name="비단 옷감" Item_sound="cloth" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth02.png" />
-    <ITEM id="50055" name="벨벳 옷감" Item_sound="cloth" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth04.png" />
-    <ITEM id="50101" name="거친 가죽" Item_sound="leather" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin01.png" />
-    <ITEM id="50102" name="부드러운 가죽" Item_sound="leather" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin02.png" />
-    <ITEM id="50103" name="두꺼운 가죽" Item_sound="leather" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin03.png" />
-    <ITEM id="50104" name="질긴 가죽" Item_sound="leather" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin04.png" />
-    <ITEM id="50105" name="튼튼한 가죽" Item_sound="leather" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin05.png" />
-    <ITEM id="50151" name="느릅나무 목재" Item_sound="wood" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber03.png" />
-    <ITEM id="50152" name="물푸레나무 목재" Item_sound="wood" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber01.png" />
-    <ITEM id="50153" name="참나무 목재" Item_sound="wood" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber02.png" />
-    <ITEM id="50154" name="단풍나무 목재" Item_sound="wood" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber03.png" />
-    <ITEM id="50155" name="마호가니 목재" Item_sound="wood" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber04.png" />
-    <ITEM id="50201" name="핀델" Item_sound="universal" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower03.png" />
-    <ITEM id="50202" name="영웅의 풀" Item_sound="universal" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_grass01.png" />
-    <ITEM id="50203" name="들로리스" Item_sound="universal" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower02.png" />
-    <ITEM id="50204" name="글로림" Item_sound="universal" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower04.png" />
-    <ITEM id="50205" name="노블레스" Item_sound="universal" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower08.png" />
-    <ITEM id="50251" name="자수정" tier="Treasure" Item_sound="jewel" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_purple_5.png" />
-    <ITEM id="50252" name="스피넬" tier="Treasure" Item_sound="jewel" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_red_4.png" />
-    <ITEM id="50253" name="토파즈" tier="Treasure" Item_sound="jewel" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_blue_4.png" />
-    <ITEM id="50254" name="오팔" tier="Treasure" Item_sound="jewel" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_white_1.png" />
-    <ITEM id="50255" name="사파이어" tier="Treasure" desc="etc. 에메랄드, 루비, 다이아몬드" Item_sound="jewel" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_green_4.png" />
-    <ITEM id="50301" name="은" tier="Treasure" Item_sound="stone" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone20.png" />
-    <ITEM id="50302" name="금" tier="Treasure" Item_sound="stone" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone19.png" />
-    <ITEM id="50303" name="이리듐" tier="Treasure" Item_sound="stone" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone17.png" />
-    <ITEM id="50304" name="백금" tier="Treasure" Item_sound="stone" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone20.png" />
-    <ITEM id="50305" name="루테늄" tier="Treasure" desc="etc. 팔라듐, 오스뮴, 로듐" Item_sound="stone" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone18.png" />
-    <!--  테레스 평원 재료  -->
-    <ITEM id="50500" name="회색늑대 모피" tier="Rare" Item_sound="cloth" type="inventory" item_level="4" selling_price="7" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_hoof01.png" />
-    <ITEM id="50501" name="#회색늑대_발톱_" Item_sound="universal" type="inventory" item_level="4" selling_price="7" stack_amount="10" max_durability="0" />
-    <ITEM id="50502" name="질 좋은 회색늑대 털" tier="Rare" Item_sound="cloth" type="inventory" item_level="5" selling_price="10" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_fur01.png" />
-    <ITEM id="50503" name="플릿풋의 뼈" tier="Treasure" Item_sound="universal" type="inventory" item_level="6" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_bone01.png" />
-    <ITEM id="50504" name="플릿풋의 가죽" tier="Treasure" Item_sound="leather" type="inventory" item_level="6" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_skin04.png" />
-    <ITEM id="50505" name="플릿풋의 피" tier="Treasure" Item_sound="liquid" type="inventory" item_level="6" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_potion02.png" />
+    <ITEM id="50005" name="#Titanium" Item_sound="stone" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone11.png" />
+    <ITEM id="50051" name="Linens" Item_sound="cloth" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth01.png" />
+    <ITEM id="50052" name="Wool" Item_sound="cloth" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth02.png" />
+    <ITEM id="50053" name="Cotten" Item_sound="cloth" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth05.png" />
+    <ITEM id="50054" name="Silk" Item_sound="cloth" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth02.png" />
+    <ITEM id="50055" name="Velvet Cloth" Item_sound="cloth" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_cloth04.png" />
+    <ITEM id="50101" name="Rough leather" Item_sound="leather" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin01.png" />
+    <ITEM id="50102" name="Soft leather" Item_sound="leather" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin02.png" />
+    <ITEM id="50103" name="Leather" Item_sound="leather" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin03.png" />
+    <ITEM id="50104" name="Heavy Leather" Item_sound="leather" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin04.png" />
+    <ITEM id="50105" name="Leather" Item_sound="leather" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_skin05.png" />
+    <ITEM id="50151" name="Elm Wood" Item_sound="wood" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber03.png" />
+    <ITEM id="50152" name="Wood ash" Item_sound="wood" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber01.png" />
+    <ITEM id="50153" name="Black Oak Wood" Item_sound="wood" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber02.png" />
+    <ITEM id="50154" name="Maple Wood" Item_sound="wood" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber03.png" />
+    <ITEM id="50155" name="Mahogany Wood" Item_sound="wood" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_lumber04.png" />
+    <ITEM id="50201" name="Findel" Item_sound="universal" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower03.png" />
+    <ITEM id="50202" name="Weed of a Hero" Item_sound="universal" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_grass01.png" />
+    <ITEM id="50203" name="Dloris" Item_sound="universal" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower02.png" />
+    <ITEM id="50204" name="Glorim" Item_sound="universal" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower04.png" />
+    <ITEM id="50205" name="Noblesse" Item_sound="universal" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_flower08.png" />
+    <ITEM id="50251" name="Amethyst" tier="Treasure" Item_sound="jewel" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_purple_5.png" />
+    <ITEM id="50252" name="Spinel" tier="Treasure" Item_sound="jewel" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_red_4.png" />
+    <ITEM id="50253" name="Topaz" tier="Treasure" Item_sound="jewel" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_blue_4.png" />
+    <ITEM id="50254" name="Opal" tier="Treasure" Item_sound="jewel" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_white_1.png" />
+    <ITEM id="50255" name="Sapphire" tier="Treasure" desc="etc. 에메랄드, 루비, 다이아몬드" Item_sound="jewel" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/gem_green_4.png" />
+    <ITEM id="50301" name="Silver" tier="Treasure" Item_sound="stone" type="inventory" item_level="5" selling_price="10" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone20.png" />
+    <ITEM id="50302" name="Gold" tier="Treasure" Item_sound="stone" type="inventory" item_level="15" selling_price="76" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone19.png" />
+    <ITEM id="50303" name="Iridium" tier="Treasure" Item_sound="stone" type="inventory" item_level="25" selling_price="202" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone17.png" />
+    <ITEM id="50304" name="Platinum" tier="Treasure" Item_sound="stone" type="inventory" item_level="35" selling_price="388" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone20.png" />
+    <ITEM id="50305" name="Ruthenium" tier="Treasure" desc="etc. 팔라듐, 오스뮴, 로듐" Item_sound="stone" type="inventory" item_level="45" selling_price="634" stack_amount="20" max_durability="0" icon="Data/Interface/icon/item_stone18.png" />
+    <!--  Terres plains material  -->
+    <ITEM id="50500" name="Gray Wolf Fur" tier="Rare" Item_sound="cloth" type="inventory" item_level="4" selling_price="7" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_hoof01.png" />
+    <ITEM id="50501" name="#Gray wolf claws_" Item_sound="universal" type="inventory" item_level="4" selling_price="7" stack_amount="10" max_durability="0" />
+    <ITEM id="50502" name="Fine gray wolf fur" tier="Rare" Item_sound="cloth" type="inventory" item_level="5" selling_price="10" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_fur01.png" />
+    <ITEM id="50503" name="Bone of Fleetfoot" tier="Treasure" Item_sound="universal" type="inventory" item_level="6" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_bone01.png" />
+    <ITEM id="50504" name="Fleet of Foot Leather" tier="Treasure" Item_sound="leather" type="inventory" item_level="6" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_skin04.png" />
+    <ITEM id="50505" name="Blood of Fleetfoot" tier="Treasure" Item_sound="liquid" type="inventory" item_level="6" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_potion02.png" />
     <ITEM id="50506" name="이끼거미 거미줄" tier="Rare" desc="질긴 실을 뽑아낼 수 있는 이끼거미의 거미줄" Item_sound="cloth" type="inventory" item_level="4" selling_price="7" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_web01.png" />
     <ITEM id="50507" name="테레시스의 외피" tier="Treasure" desc="테레시스의 등을 보호하던 가장 단단한 외골격의 일부로 갑옷을 만드는데 사용하면 좋을 것 같습니다." Item_sound="wood" type="inventory" item_level="10" selling_price="144" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_skin10.png" />
     <ITEM id="50508" name="테레시스의 거미줄" tier="Treasure" desc="테레시스의 굵고 질긴 거미줄은 튼튼한 옷의 제작이나 갑옷의 접착제로 사용할 수 있습니다." Item_sound="universal" type="inventory" item_level="10" selling_price="144" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_web01.png" />
@@ -800,7 +800,7 @@
     <ITEM id="50517" name="#나무정령의_뿌리_" Item_sound="wood" type="inventory" stack_amount="10" max_durability="0" />
     <ITEM id="50518" name="#이끼거미_외골격_" Item_sound="universal" type="inventory" stack_amount="10" max_durability="0" />
     <ITEM id="50519" name="#이끼거미_어금니_" Item_sound="universal" type="inventory" item_level="4" selling_price="7" stack_amount="10" max_durability="0" />
-    <!--  렌고트 부락 재료  -->
+    <!--  Materials rengoteu village  -->
     <ITEM id="50520" name="촘촘한 비늘" tier="Rare" Item_sound="leather" type="inventory" item_level="9" selling_price="30" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_scales01.png" />
     <ITEM id="50521" name="#초승달_사슴의_뿔_" Item_sound="universal" type="inventory" item_level="9" selling_price="30" stack_amount="10" max_durability="0" />
     <ITEM id="50522" name="호저의 가죽" tier="Rare" Item_sound="leather" type="inventory" item_level="10" selling_price="36" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_fur01.png" />
@@ -821,7 +821,7 @@
     <ITEM id="50537" name="고블린 골렘의 조각" tier="Treasure" desc="고블린 골렘에게서 떨어져나간 돌의 파편입니다. 연금술과 주술에 의해 강화되어 있습니다." Item_sound="stone" type="inventory" item_level="13" selling_price="235" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_stone05.png" />
     <ITEM id="50538" name="골렘 동력 기관" tier="Treasure" desc="고블린 골렘의 동력 기관에서 떼어낸 파편. 미약하게나마 마력이 남아 있습니다." Item_sound="stone" type="inventory" item_level="13" selling_price="235" stack_amount="10" max_durability="0" icon="Data/Interface/icon/gem_white_5.png" />
     <ITEM id="50539" name="#전기_주머니_" Item_sound="universal" type="inventory" item_level="11" selling_price="43" stack_amount="10" max_durability="0" />
-    <!--  영웅의 오솔길 재료  -->
+    <!--  Hero's Trail Material  -->
     <ITEM id="50600" name="석탄" tier="Rare" Item_sound="stone" type="inventory" item_level="13" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_stone05.png" />
     <ITEM id="50601" name="뼈 조각" tier="Rare" Item_sound="universal" type="inventory" item_level="13" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_bone01.png" />
     <ITEM id="50602" name="하급 엑토플라즘" tier="Rare" Item_sound="organ" type="inventory" item_level="13" selling_price="58" stack_amount="10" max_durability="0" icon="Data/Interface/icon/B_40004_2.png" />
@@ -856,12 +856,12 @@
     <ITEM id="50636" name="#뼈로_된_북채_" Item_sound="universal" type="inventory" stack_amount="10" max_durability="0" />
     <ITEM id="50637" name="#타일런트_좀비의_손톱_" Item_sound="wood" type="inventory" stack_amount="10" max_durability="0" />
     <ITEM id="50638" name="#인공_근육조직_" Item_sound="universal" type="inventory" stack_amount="10" max_durability="0" />
-    <!--  오염된 화원 (인던에서만 드랍 = 가격 x4)  -->
+    <!--  Contaminated Garden (indeoneseoman price drop = x4)  -->
     <ITEM id="50650" name="화원의 주인의 포자" tier="Treasure" Item_sound="organ" type="inventory" item_level="16" selling_price="346" stack_amount="10" max_durability="0" icon="Data/Interface/icon/T_60201.png" />
     <ITEM id="50651" name="빛나는 꽃가루" tier="Treasure" Item_sound="jewel" type="inventory" item_level="16" selling_price="346" stack_amount="10" max_durability="0" icon="Data/Interface/icon/T_60701.png" />
     <ITEM id="50652" name="끈적끈적한 수액" tier="Treasure" Item_sound="liquid" type="inventory" item_level="16" selling_price="346" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_potion04.png" />
     <ITEM id="50653" name="녹휘석" tier="Rare" desc="봉봉의 사체로부터 종종 발견되곤 하는 녹색의 사리" Item_sound="jewel" type="inventory" item_level="15" selling_price="307" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_stone04.png" />
-    <!--  납골당 (인던에서만 드랍 = 가격 x4)  -->
+    <!--  Crypt (indeoneseoman price drop = x4)  -->
     <ITEM id="50700" name="저주받은 유령 기사의 투구" tier="Treasure" desc="유령 기사가 사용하던 투구. 저주가 걸려 있어 장비하면 해를 입게 됩니다." mesh_name="heavy_armor_specter" mesh_name_by_sex="True" node_name="hat" Item_sound="iron" type="armor" condition="16" sex="All" slot="head" armor_type="heavy" claim_required="False" tradable="True" sellable="True" discardable="True" item_level="17" selling_price="389" repair_grade="20" repairable="True" stack_amount="1" max_durability="50" AP="288" ModINT="-50" ModDefSlashAmp="1" ModDefBluntAmp="1" ModDefPierceAmp="1" icon="Data/Interface/icon/ex_plate_head_002.png" />
     <ITEM id="50701" name="저주받은 유령 기사의 흉갑" tier="Treasure" desc="유령 기사가 사용하던 흉갑. 저주가 걸려 있어 장비하면 해를 입게 됩니다." mesh_name="heavy_armor_specter" mesh_name_by_sex="True" node_name="chest" Item_sound="iron" type="armor" condition="16" sex="All" slot="body" armor_type="heavy" claim_required="False" tradable="True" sellable="True" discardable="True" item_level="17" selling_price="389" repair_grade="20" repairable="True" stack_amount="1" max_durability="50" AP="288" ModCHA="-50" ModDefSlashAmp="1" ModDefBluntAmp="1" ModDefPierceAmp="1" icon="Data/Interface/icon/ex_plate_chest_002.png" />
     <ITEM id="50702" name="저주받은 유령 기사의 다리갑옷" tier="Treasure" desc="유령 기사가 사용하던 다리갑옷. 저주가 걸려 있어 장비하면 해를 입게 됩니다." mesh_name="heavy_armor_specter" mesh_name_by_sex="True" node_name="legs" Item_sound="iron" type="armor" condition="16" sex="All" slot="leg" armor_type="heavy" claim_required="False" tradable="True" sellable="True" discardable="True" item_level="17" selling_price="389" repair_grade="20" repairable="True" stack_amount="1" max_durability="50" AP="288" ModCON="-50" ModDefSlashAmp="1" ModDefBluntAmp="1" ModDefPierceAmp="1" icon="Data/Interface/icon/ex_plate_legs_002.png" />
@@ -872,7 +872,7 @@
     <ITEM id="50707" name="마력의 정수" tier="Treasure" Item_sound="liquid" type="inventory" tradable="True" sellable="True" discardable="True" item_level="18" selling_price="432" stack_amount="10" icon="Data/Interface/icon/T_62201.png" />
     <ITEM id="50708" name="악신의 장식물" tier="Treasure" desc="죽음의 신의 불길한 모습을 새긴 장식물" Item_sound="wood" type="inventory" tradable="True" sellable="True" discardable="True" item_level="18" selling_price="432" stack_amount="10" icon="Data/Interface/icon/T_21106.png" />
     <ITEM id="50709" name="혈석" tier="Rare" desc="불길한 붉은색을 띈 수수께끼의 돌" Item_sound="stone" type="inventory" tradable="True" sellable="True" discardable="True" item_level="16" selling_price="346" stack_amount="10" icon="Data/Interface/icon/gem_red_crashed.png" />
-    <!--  에다산, 마코트 부락  -->
+    <!--  Edasan, Marcotte village  -->
     <ITEM id="50800" name="광기의 눈 부족 메달" tier="Treasure" Item_sound="coin" type="inventory" tradable="False" sellable="False" discardable="True" item_level="19" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_coin02.png" />
     <ITEM id="50801" name="흰색 예티 부족 메달" tier="Treasure" Item_sound="coin" type="inventory" tradable="False" sellable="False" discardable="True" item_level="19" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_coin03.png" />
     <ITEM id="50802" name="깃털" tier="Rare" Item_sound="universal" type="inventory" tradable="True" sellable="True" discardable="True" item_level="18" selling_price="108" stack_amount="20" icon="Data/Interface/icon/item_feather02.png" />
@@ -904,7 +904,7 @@
     <ITEM id="50828" name="마코트 부족 쇠비늘" tier="Rare" Item_sound="chain" type="inventory" tradable="True" sellable="True" discardable="True" item_level="20" selling_price="132" stack_amount="10" icon="Data/Interface/icon/item_scales02.png" />
     <ITEM id="50829" name="어둠의 금속" tier="Rare" Item_sound="iron" type="inventory" tradable="True" sellable="True" discardable="True" item_level="20" selling_price="132" stack_amount="10" icon="Data/Interface/icon/item_stone14.png" />
     <ITEM id="50830" name="잡동사니 광석" tier="Rare" desc="코볼트들이 여기저기서 주워모은 잡다한 광석. 잘 살펴보면 쓸만한 광석이 들어있을지도…" Item_sound="stone" type="inventory" tradable="True" sellable="True" discardable="True" item_level="18" selling_price="108" stack_amount="20" icon="Data/Interface/icon/item_stone10.png" />
-    <!--  부러진 돛대  -->
+    <!--  Wreckage  -->
     <ITEM id="50900" name="방패게 등껍질" tier="Very Common" desc="가볍고 튼튼한 방패게의 등껍질" Item_sound="universal" type="inventory" tradable="True" sellable="True" discardable="True" item_level="2" selling_price="2" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_scales01.png" />
     <ITEM id="50901" name="에보스 마법사의 귀걸이" tier="Very Common" desc="에보스 마법사가 사용하던 귀걸이" Item_sound="jewel" type="inventory" tradable="True" sellable="True" discardable="True" item_level="3" selling_price="3" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_stone04.png" />
     <ITEM id="50902" name="수병의 버클" tier="Very Common" desc="벨피노 해군 제복에 사용되었던 튼튼한 버클" Item_sound="leather" type="inventory" tradable="True" sellable="True" discardable="True" item_level="4" selling_price="4" stack_amount="100" max_durability="0" icon="Data/Interface/icon/item_buckle01.png" />
@@ -913,11 +913,11 @@
     <ITEM id="50905" name="술병1" tier="Rare" desc="독립 전쟁 당시 자유와 투쟁을 상징하던 둔기로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="1hb_bottle_02" node_name="1hb" mesh_path="weapons" parent_name="dummy_1hs_r" texcolor="426EFF" Item_sound="iron" type="weapon" sex="All" slot="rweapon" weapon_type="1hb" DamageAttrib="blunt" claim_required="True" item_level="5" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="34" max_damage="37" spell_power="1.23" ModINT="4" icon="Data/Interface/icon/ex_1hb_0012.png" EquipEnchantSlot="X,R" />
     <ITEM id="50906" name="술병2" tier="Rare" desc="독립 전쟁 당시 자유와 투쟁을 상징하던 둔기로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="1hb_bottle_01" node_name="1hb" mesh_path="weapons" parent_name="dummy_1hs_r" texcolor="426EFF" Item_sound="iron" type="weapon" sex="All" slot="rweapon" weapon_type="1hb" DamageAttrib="blunt" claim_required="True" item_level="5" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="34" max_damage="37" spell_power="1.23" ModINT="4" icon="Data/Interface/icon/ex_1hb_0012.png" EquipEnchantSlot="X,R" />
     <ITEM id="50907" name="맥주잔1" tier="Rare" desc="독립 전쟁 당시 자유와 투쟁을 상징하던 둔기로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="1hb_beertankard" node_name="1hb" mesh_path="weapons" parent_name="dummy_1hs_r" texcolor="426EFF" Item_sound="iron" type="weapon" sex="All" slot="rweapon" weapon_type="1hb" DamageAttrib="blunt" claim_required="True" item_level="5" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="34" max_damage="37" spell_power="1.23" ModINT="4" icon="Data/Interface/icon/ex_1hb_0012.png" EquipEnchantSlot="X,R" />
-    <!--  채집용 아이템(57000 ~ 57999)  -->
+    <!--  Chaejipyong items(57000 ~ 57999)  -->
     <ITEM id="57000" name="#안_쓰는_아이템A" Item_sound="cutlery" type="gather" gather_type="mine" buying_price="160" selling_price="40" stack_amount="1" max_durability="0" />
     <ITEM id="57001" name="#안_쓰는_아이템B" Item_sound="cutlery" type="gather" gather_type="herb" buying_price="120" selling_price="30" stack_amount="1" max_durability="0" />
     <ITEM id="57002" name="#안_쓰는_아이템C" Item_sound="universal" type="gather" gather_type="relic" buying_price="60" selling_price="15" stack_amount="10" max_durability="0" />
-    <!--  요리 재료 (58000~59999)  -->
+    <!--  Ingredients (58000~59999)  -->
     <ITEM id="58000" name="늑대고기" tier="Rare" Item_sound="universal" type="inventory" buying_price="6" selling_price="3" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_pork02.png" />
     <ITEM id="58001" name="거미다리" tier="Rare" Item_sound="organ" type="inventory" buying_price="4" selling_price="2" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_spider01.png" />
     <ITEM id="58002" name="밀가루" tier="Rare" Item_sound="universal" type="inventory" buying_price="6" selling_price="3" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_ashes01.png" />
@@ -947,8 +947,8 @@
     <ITEM id="58026" name="선인장" tier="Rare" Item_sound="universal" type="inventory" buying_price="14" selling_price="7" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_flower04.png" />
     <ITEM id="58027" name="송사리" tier="Rare" Item_sound="organ" type="inventory" buying_price="12" selling_price="6" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_grilledfish01.png" />
     <ITEM id="58028" name="소금" Item_sound="universal" type="inventory" buying_price="14" selling_price="7" stack_amount="10" max_durability="0" icon="Data/Interface/icon/item_ashes01.png" />
-    <!--  제조된 아이템 60000~79999  -->
-    <!--  방패 (60000~60999)  -->
+    <!--  Manufactured items 60000~79999  -->
+    <!--  Shield (60000~60999)  -->
     <ITEM id="60000" name="#자유의_방패_" tier="Rare" desc="#독립 전쟁 당시 자유와 투쟁을 상징하던 방패로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="shield_03" node_name="shield_03" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="wood" type="armor" condition="5" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="17" max_damage="20" AP="160" ModDEX="3" ModCON="2" icon="Data/Interface/icon/ex_shield_0011.png" />
     <ITEM id="60001" name="#고대_제국의_방패_" tier="Treasure" desc="#고대 국가 투스칸의  제작 방식을 모방하여 만든 방패" mesh_name="shield_05" node_name="shield_05" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="iron" type="armor" condition="8" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" buying_price="640" selling_price="160" repair_grade="8" stack_amount="1" max_durability="50" min_damage="25" max_damage="30" AP="320" ModDEX="2" ModCON="3" ModINT="2" ModSTAMax="15" icon="Data/Interface/icon/ex_shield_0012.png" />
     <ITEM id="60002" name="#벼락을_부르는_방패_" tier="Treasure" desc="#무기에 골렘의 동력을 사용하여 전격의 힘을 담은 방패" mesh_name="shield_lightning" node_name="shield_lightning" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="iron" type="armor" condition="10" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" buying_price="1000" selling_price="250" repair_grade="10" stack_amount="1" max_durability="50" min_damage="28" max_damage="34" AP="384" ModDEX="3" ModCON="6" ModHPMax="8" ModENMax="4" ModLR="30" icon="Data/Interface/icon/ex_shield_0021.png" />
@@ -962,7 +962,7 @@
     <ITEM id="60010" name="#만렙_방패_에픽_" tier="Rare" mesh_name="shield_04" node_name="shield_04" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="iron" type="armor" condition="50" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" buying_price="26020" selling_price="6505" repair_grade="50" stack_amount="1" max_durability="50" min_damage="1" max_damage="2" AP="1760" icon="Data/Interface/icon/ex_shield_0011.png" />
     <ITEM id="60011" name="#약탈자의_방패_" tier="Rare" desc="#부러진 돛대의 해적들이 즐겨 사용하는 방패" mesh_name="shield_01" node_name="shield_01" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="iron" type="armor" condition="2" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" buying_price="100" selling_price="25" repair_grade="2" stack_amount="1" max_durability="50" min_damage="16" max_damage="20" AP="96" ModCON="1" ModHPMax="10" icon="Data/Interface/icon/ex_shield_0013.png" />
     <ITEM id="60012" name="#승리의_방패_" tier="Rare" desc="#렌고트 부락에서 밖에 구할 수 없는 재료를 사용해 만든 실험적인 방패" mesh_name="shield_victory" node_name="shield_victory" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="iron" type="armor" condition="9" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" buying_price="820" selling_price="205" repair_grade="9" stack_amount="1" max_durability="50" min_damage="21" max_damage="26" AP="224" ModSTR="3" ModCON="4" icon="Data/Interface/icon/ex_shield_0013.png" />
-    <!--  방어구 (61000~67999)  -->
+    <!--  Armor (61000~67999)  -->
     <ITEM id="61000" name="#알스테어_머리장식" tier="Rare" mesh_name="alstair_leather" mesh_name_by_sex="True" node_name="hat" texcolor="663F3F" Item_sound="cloth" type="armor" condition="5" sex="All" slot="head" armor_type="cloth" claim_required="True" buying_price="396" selling_price="99" repair_grade="5" stack_amount="1" max_durability="42" AP="20" ModDEX="2" ModINT="2" ModENMax="3" ModSTAMax="2" icon="Data/Interface/icon/ex_cloth_head_0012.png" Dyeable ="FALSE" />
     <ITEM id="61001" name="#알스테어_로브" tier="Rare" mesh_name="alstair_leather" mesh_name_by_sex="True" node_name="chest" node_name2="chest_cloth" texcolor="663F3F" Item_sound="cloth" type="armor" condition="5" sex="All" slot="body" sub_slot="leg" armor_type="cloth" claim_required="True" buying_price="704" selling_price="176" repair_grade="7" stack_amount="1" max_durability="42" AP="40" ModCON="2" ModINT="6" ModENMax="10" icon="Data/Interface/icon/ex_cloth_chest_0012.png" />
     <ITEM id="61003" name="#알스테어_장갑" tier="Rare" mesh_name="cloth_priest" mesh_name_by_sex="True" node_name="hands" texcolor="663F3F" Item_sound="cloth" type="armor" condition="5" sex="All" slot="hands" armor_type="cloth" claim_required="True" buying_price="396" selling_price="99" repair_grade="5" stack_amount="1" max_durability="42" AP="20" ModDEX="2" ModCON="2" ModHPMax="2" ModSTAMax="3" icon="Data/Interface/icon/ex_cloth_glove_0012.png" />
@@ -1236,7 +1236,7 @@
     <ITEM id="62762" name="유령 기사의 판금 다리갑옷 +1" tier="Treasure" mesh_name="heavy_armor_specter" mesh_name_by_sex="True" node_name="legs" texcolor="FFFFFF" Item_sound="iron" type="armor" condition="18" sex="All" slot="leg" armor_type="heavy" claim_required="True" tradable="False" item_level="21" buying_price="4500" selling_price="1125" repair_grade="18" stack_amount="1" max_durability="50" AP="672" ModCON="8" ModMeleeAtkAmp="0.01" ModRangeAtkAmp="0.01" ModMagicAtkAmp="0.01" ModDefHolyAmp="0.06" icon="Data/Interface/icon/ex_plate_legs_002.png" EquipEnchantSlot="X,R,R" />
     <ITEM id="62763" name="유령 기사의 판금 장갑 +1" tier="Treasure" mesh_name="heavy_armor_specter" mesh_name_by_sex="True" node_name="hands" texcolor="FFFFFF" Item_sound="iron" type="armor" condition="18" sex="All" slot="hands" armor_type="heavy" claim_required="True" tradable="False" item_level="21" buying_price="4500" selling_price="1125" repair_grade="18" stack_amount="1" max_durability="50" AP="672" ModCON="8" ModMeleeAtkAmp="0.01" ModRangeAtkAmp="0.01" ModMagicAtkAmp="0.01" ModDefHolyAmp="0.06" icon="Data/Interface/icon/ex_plate_glove_002.png" EquipEnchantSlot="X,R,R" />
     <ITEM id="62764" name="유령 기사의 판금 장화 +1" tier="Treasure" mesh_name="heavy_armor_specter" mesh_name_by_sex="True" node_name="feet" texcolor="FFFFFF" Item_sound="iron" type="armor" condition="18" sex="All" slot="feet" armor_type="heavy" claim_required="True" tradable="False" item_level="21" buying_price="4500" selling_price="1125" repair_grade="18" stack_amount="1" max_durability="50" AP="672" ModCON="8" ModMeleeAtkAmp="0.01" ModRangeAtkAmp="0.01" ModMagicAtkAmp="0.01" ModDefHolyAmp="0.06" icon="Data/Interface/icon/ex_plate_feet_002.png" EquipEnchantSlot="X,R,R" />
-    <!--  장신구 (68000~69999)  -->
+    <!--  Accessories (68000~69999)  -->
     <ITEM id="68000" name="오튼의 목걸이" tier="Rare" desc="오튼이 동물의 이빨을 꿰어 만들어준 목걸이. " Item_sound="jewel" type="armor" condition="4" sex="All" slot="neck" armor_type="accessory" claim_required="True" item_level="4" buying_price="200" selling_price="50" stack_amount="1" ModCON="1" ModCHA="1" ModPR="30" ModPRAmp="0.25" icon="Data/Interface/icon/item_amulet01.png" />
     <ITEM id="68001" name="은반지" tier="Common" desc="은으로 된 수수한 반지" Item_sound="jewel" type="armor" condition="1" sex="All" slot="finger" armor_type="accessory" claim_required="False" item_level="10" buying_price="1500" selling_price="375" stack_amount="1" ModCHA="1" icon="Data/Interface/icon/item_ring06.png" />
     <ITEM id="68002" name="금반지" tier="Common" desc="금으로 된 반지. 24K" Item_sound="jewel" type="armor" condition="1" sex="All" slot="finger" armor_type="accessory" claim_required="False" item_level="20" buying_price="5500" selling_price="1375" stack_amount="1" ModCHA="2" icon="Data/Interface/icon/item_ring07.png" />
@@ -1257,7 +1257,7 @@
     <ITEM id="68017" name="락크러셔의 축복 목걸이" tier="Rare" desc="흰색예티 부족의 족장 락크러셔의 특별한 축복이 들어 간 목걸이입니다. 좀 무겁습니다. " Item_sound="jewel" type="armor" condition="20" sex="All" slot="neck" armor_type="accessory" claim_required="True" tradable="False" discardable="True" item_level="20" buying_price="5500" selling_price="1375" stack_amount="1" ModHPMax="80" ModENMax="20" ModHPRegen="5" icon="Data/Interface/icon/item_amulet07.png" />
     <ITEM id="68018" name="#에다산의 정복자" tier="Legendary" desc="#에다산을 정복한 자의 징표" Item_sound="jewel" type="armor" condition="22" sex="All" slot="neck" armor_type="accessory" claim_required="True" tradable="False" discardable="True" item_level="26" buying_price="9100" selling_price="2275" stack_amount="1" icon="Data/Interface/icon/item_fang01.png" />
     <ITEM id="68019" name="안개의 고리" tier="Treasure" desc="착용자를 흐릿하게 만드는 마력의 반지. 공격이 빗맞을 확률이 조금 상승합니다." Item_sound="jewel" type="armor" condition="8" sex="All" slot="finger" armor_type="accessory" claim_required="True" tradable="False" discardable="True" item_level="11" buying_price="1800" selling_price="450" stack_amount="1" ModDodgeAmp="0.08" icon="Data/Interface/icon/item_ring07.png" />
-    <!--  무기 (70000~74999)  -->
+    <!--  Weapon (70000~74999)  -->
     <ITEM id="70000" name="자유의 장검" tier="Rare" desc="독립 전쟁 당시 자유와 투쟁을 상징하던 검으로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="1hd_03" node_name="1hd" mesh_path="weapons" parent_name="dummy_1hs_r" texcolor="426EFF" Item_sound="cutlery" type="weapon" condition="5" sex="All" slot="rweapon" weapon_type="1hs" DamageAttrib="slash" claim_required="True" item_level="5" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="31" max_damage="40" spell_power="1.23" ModSTR="4" icon="Data/Interface/icon/ex_1hs_0012.png" EquipEnchantSlot="X,R" />
     <ITEM id="70001" name="자유의 둔기" tier="Rare" desc="독립 전쟁 당시 자유와 투쟁을 상징하던 둔기로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="1hb_03" node_name="1hb" mesh_path="weapons" parent_name="dummy_1hs_r" texcolor="426EFF" Item_sound="iron" type="weapon" condition="5" sex="All" slot="rweapon" weapon_type="1hb" DamageAttrib="blunt" claim_required="True" item_level="5" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="34" max_damage="37" spell_power="1.23" ModINT="4" icon="Data/Interface/icon/ex_1hb_0012.png" EquipEnchantSlot="X,R" />
     <ITEM id="70002" name="자유의 양손검" tier="Rare" desc="독립 전쟁 당시 자유와 투쟁을 상징하던 양손검으로, 지금도 인젠을 중심으로 널리 제작되곤 합니다." mesh_name="2hd_03" node_name="2hd" mesh_path="weapons" parent_name="dummy_2hs" texcolor="426EFF" Item_sound="cutlery" type="weapon" condition="5" sex="All" slot="rweapon" sub_slot="lweapon" weapon_type="2hd" DamageAttrib="slash" claim_required="True" item_level="5" buying_price="260" selling_price="65" repair_grade="5" stack_amount="1" max_durability="50" min_damage="37" max_damage="58" spell_power="1.23" ModSTR="4" ModCON="4" icon="Data/Interface/icon/ex_2hd_0012.png" EquipEnchantSlot="X,R,R" />
@@ -1338,8 +1338,8 @@
     <ITEM id="70095" name="마코트 부족의 지팡이" tier="Rare" mesh_name="sta_inferno" node_name="sta" mesh_path="weapons" parent_name="dummy_sta" Item_sound="wood" type="weapon" condition="20" sex="All" slot="rweapon" sub_slot="lweapon" weapon_type="sta" DamageAttrib="blunt" claim_required="True" item_level="20" buying_price="5500" selling_price="1375" repair_grade="20" stack_amount="1" max_durability="50" min_damage="58" max_damage="116" spell_power="3.93" ModCHA="7" ModINT="7" icon="Data/Interface/icon/ex_stf_0024.png" EquipEnchantSlot="W,R,R" />
     <ITEM id="70096" name="마코트 부족의 활" tier="Rare" mesh_name="Bow_01" node_name="bow" mesh_path="weapons" parent_name="dummy_arc" Item_sound="wood" type="weapon" condition="20" sex="All" slot="rweapon" sub_slot="lweapon" weapon_type="arc" DamageAttrib="inertia" claim_required="True" item_level="20" buying_price="5500" selling_price="1375" repair_grade="20" stack_amount="1" max_durability="50" min_damage="90" max_damage="129" spell_power="2.65" ModSTR="7" ModDEX="7" EquipEnchantSlot="W,R,R" />
     <ITEM id="70097" name="마코트 부족의 방패" tier="Rare" mesh_name="shield_inferno" node_name="shield" mesh_path="weapons" parent_name="dummy_shield" parent_name_left="dummy_shield" Item_sound="iron" type="armor" condition="20" sex="All" slot="lweapon" armor_type="shield" DamageAttrib="blunt" claim_required="True" item_level="20" buying_price="5500" selling_price="1375" repair_grade="20" stack_amount="1" max_durability="50" min_damage="39" max_damage="48" spell_power="2.65" AP="640" ModCON="7" icon="Data/Interface/icon/ex_shield_0024.png" EquipEnchantSlot="W,R" />
-    <!-- 70200 구리_켈트롭  -->
-    <!-- 70201 늑대잡이_덫  -->
+    <!-- 70200 opper _ kelteurop  -->
+    <!-- 70201 Wolf Trap Fishing _  -->
     <!-- 70202 구리_연막탄  -->
     <!-- 70203 구리_단검  -->
     <!-- 70204 구리_롱소드 longsword_02 longsword_02  -->
@@ -1412,7 +1412,7 @@
     <!-- 72001 안_쓰는_아이템2  -->
     <!-- 72002 안_쓰는_아이템3  -->
     <!-- 72003 안_쓰는_아이템4  -->
-    <!--  요리 (75000~75999)  -->
+    <!--  Cuisine (75000~75999)  -->
     <ITEM id="75000" name="바삭바삭한 빵" desc="이 요리를 먹게 되면 5분 동안 정신력이 50만큼, 지능이 10 상승하게 됩니다." Item_sound="universal" type="usable" condition="1" usable_type="talent_use" usable_param="114000" usable_consume="True" buying_price="0" selling_price="10" stack_amount="10" icon="Data/Interface/icon/item_bread01.png" />
     <ITEM id="75001" name="구운 거미다리" desc="이 요리를 먹게 되면 5분 동안 생명력이 50만큼, 민첩성이 10 상승하게 됩니다." Item_sound="universal" type="usable" condition="1" usable_type="talent_use" usable_param="114001" usable_consume="True" buying_price="0" selling_price="10" stack_amount="10" icon="Data/Interface/icon/item_spider01.png" />
     <ITEM id="75002" name="훈제 늑대고기" desc="이 요리를 먹게 되면 5분 동안 기력이 50만큼, 힘이 10 상승하게 됩니다." Item_sound="universal" type="usable" condition="1" usable_type="talent_use" usable_param="114002" usable_consume="True" buying_price="0" selling_price="10" stack_amount="10" icon="Data/Interface/icon/item_smoked_pork01.png" />
@@ -1450,8 +1450,8 @@
     <ITEM id="75044" name="루세뜨 요리" desc="이 요리를 먹게 되면 5분 동안 회피율이 10%씩 상승하게 됩니다." Item_sound="universal" type="usable" condition="1" usable_type="talent_use" usable_param="114050" usable_consume="True" buying_price="0" selling_price="10" stack_amount="10" icon="Data/Interface/icon/item_batwing01.png" />
     <ITEM id="75045" name="향기로운 루세뜨 요리" tier="Rare" desc="이 요리를 먹게 되면 30분 동안 회피율이 10%씩 상승하게 됩니다." Item_sound="universal" type="usable" condition="1" usable_type="talent_use" usable_param="114051" usable_consume="True" buying_price="0" selling_price="10" stack_amount="10" icon="Data/Interface/icon/item_antler01.png" />
     <ITEM id="75046" name="하운터 장작구이" desc="이 요리를 먹게 되면 50의 생명력이 회복되고, 5분 동안 힘이 10 상승하게 됩니다." Item_sound="universal" type="usable" condition="1" usable_type="talent_use" usable_param="114052" usable_consume="True" buying_price="0" selling_price="0" stack_amount="10" icon="Data/Interface/icon/item_skewer02.png" />
-    <!--  여관 아이템 80000~  -->
-    <!--  상점 가구  -->
+    <!--  Item inn 80000~  -->
+    <!--  Furniture Stores  -->
     <ITEM id="80000" name="#모루1" Item_sound="iron" type="housing" slot="inn_crafting" housing_npc="15000" buying_price="1000" selling_price="500" stack_amount="1" max_durability="0" />
     <ITEM id="80010" name="#느릅나무 침대" Item_sound="wood" type="housing" slot="inn_bed" housing_npc="600000" buying_price="1000" selling_price="500" stack_amount="1" max_durability="0" />
     <ITEM id="80020" name="#집사1" Item_sound="coin" type="housing" slot="inn_steward" housing_npc="600010" buying_price="1000" selling_price="500" stack_amount="1" max_durability="0" />
@@ -1460,11 +1460,11 @@
     <ITEM id="80050" name="#무명화가의 그림" Item_sound="universal" type="housing" slot="inn_mural" housing_npc="600040" buying_price="40" selling_price="20" stack_amount="1" max_durability="0" icon="Data/Interface/icon/item_patch01.png" />
     <ITEM id="80060" name="#느릅나무 테이블" Item_sound="wood" type="housing" slot="inn_table" housing_npc="600050" buying_price="1000" selling_price="500" stack_amount="1" max_durability="0" />
     <ITEM id="80070" name="#느릅나무 책꽂이" Item_sound="wood" type="housing" slot="inn_funiture" housing_npc="600060" buying_price="1000" selling_price="500" stack_amount="1" max_durability="0" />
-    <!--  제작 가구  -->
-    <!--  기타 아이템 90000~  -->
-    <ITEM id="90000" name="광기의 눈 부족의 용사 징표" tier="Rare" desc="광기의 눈 부족의 대제사장을 끝까지 보호한 사람에게 내리는 용사의 징표" Item_sound="coin" type="inventory" tradable="False" sellable="False" discardable="True" stack_amount="99" icon="Data/Interface/icon/item_scalp04.png" />
-    <ITEM id="90001" name="흰색 예티 부족의 용사 징표" tier="Rare" desc="흰색 예티 부족의 대제사장을 끝까지 보호한 사람에게 내리는 용사의 징표" Item_sound="coin" type="inventory" tradable="False" sellable="False" discardable="True" stack_amount="99" icon="Data/Interface/icon/item_scalp05.png" />
-    <!--  기타 아이템 1000000~  -->
+    <!--  Furniture production  -->
+    <!--  Other Items 90000~  -->
+    <ITEM id="90000" name="Champion of madness a sign of lack of snow" tier="Rare" desc="광기의 눈 부족의 대제사장을 끝까지 보호한 사람에게 내리는 용사의 징표" Item_sound="coin" type="inventory" tradable="False" sellable="False" discardable="True" stack_amount="99" icon="Data/Interface/icon/item_scalp04.png" />
+    <ITEM id="90001" name="White Yeti tribe's warriors mark" tier="Rare" desc="흰색 예티 부족의 대제사장을 끝까지 보호한 사람에게 내리는 용사의 징표" Item_sound="coin" type="inventory" tradable="False" sellable="False" discardable="True" stack_amount="99" icon="Data/Interface/icon/item_scalp05.png" />
+    <!--  Other Items 1000000~  -->
     <ITEM id="1000000" name="#산악용 밧줄" desc="#튼튼한 산악용 밧줄. 어딘가에 묶어서 암벽을 오르내릴 수 있습니다." Item_sound="universal" type="inventory" tradable="False" sellable="True" discardable="True" buying_price="400" selling_price="100" stack_amount="1" icon="Data/Interface/icon/item_sack01.png" />
     <ITEM id="1000001" name="등산용 스토브" desc="바람이 많이 부는 고산 지대에서도 사용할 수 있게 제작된 요리도구" Item_sound="universal" type="inventory" tradable="False" sellable="True" discardable="True" buying_price="800" selling_price="200" stack_amount="1" icon="Data/Interface/icon/item_spray01.png" />
     <ITEM id="1000002" name="스토브 연료" desc="연금술사들이 제작한 기화성 기체가 가득 든 통" Item_sound="iron" type="inventory" tradable="False" sellable="True" discardable="True" buying_price="100" selling_price="25" stack_amount="5" icon="Data/Interface/icon/item_juice01.png" />
