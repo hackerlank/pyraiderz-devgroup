@@ -1,0 +1,6 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/13/11 21:08:48)
+------------------------------------------------------------------------------
+[i] 21:08:48 - Start application without service mode
+[i] 21:08:48 - application_commandline : "C:\Users\Jack\Desktop\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\MasterServer\MasterServer.exe"
+[i] 21:08:49 - Server Socket Opened. (Port = 7500)

@@ -1,0 +1,17 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/14/11 11:01:44)
+------------------------------------------------------------------------------
+[i] 11:01:44 - Start application without service mode
+[i] 11:01:44 - application_commandline : "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\LoginServer\LoginServer.exe"
+[i] 11:01:58 - Server Socket Opened. (Port = 7501)
+[i] 11:01:58 - Create Sync Database success.
+[i] 11:01:58 - Create Async AccountDB success.
+[i] 11:01:58 - Create Async GameDB success.
+[i] 11:01:59 - Create Async LogDB success.
+[i] 11:01:59 - Create Async Database Successed
+[i] 11:01:59 - Server Created. (WorldID=1 , ServerID=101)
+[i] 11:01:59 - Connected To MasterServer
+[i] 11:01:59 - MasterServer Login Success : Alloc UID = (1000000:3), ServerMode = NORMAL
+[i] 11:02:02 - Client NetError (ErrorCode=10053)
+[i] 11:02:02 - Disconnected From MasterServer
+[i] 11:02:02 - LConsole > OnDestroy 

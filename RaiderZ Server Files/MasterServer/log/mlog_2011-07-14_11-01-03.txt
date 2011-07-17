@@ -1,0 +1,11 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/14/11 11:01:03)
+------------------------------------------------------------------------------
+[i] 11:01:03 - Start application without service mode
+[i] 11:01:03 - application_commandline : "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\MasterServer\MasterServer.exe"
+[i] 11:01:04 - Server Socket Opened. (Port = 7500)
+[i] 11:01:04 - DBMS connected
+[i] 11:01:04 - Server Created. (WorldID=1 , ServerID=100)
+[i] 11:01:04 - Login Server Logined : ServerID(101)
+[i] 11:01:06 - Error! Not Exist ServerInfo(ID: 2)
+[i] 11:01:09 - Not Servable. AppServer Count = 0(1)

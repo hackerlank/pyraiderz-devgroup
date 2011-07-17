@@ -1,0 +1,12 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/15/11 03:40:31)
+------------------------------------------------------------------------------
+[i] 03:40:31 - "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\AppServer\AppServer.exe"[i] 03:40:31 - Start application without service mode
+[i] 03:40:31 - application_commandline : "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\AppServer\AppServer.exe"
+[i] 03:40:31 - Server Socket Opened. (Port = 7502)
+[i] 03:40:31 - DBMS connected
+[i] 03:40:31 - Server Created. (WorldID=1 , ServerID=102)
+[i] 03:40:31 - Connected To MasterServer
+[i] 03:40:31 - MasterServer Login Success : Alloc UID = (1000000:2), ServerMode = NORMAL
+[i] 03:40:36 - server start! (Servable)
+[i] 03:41:38 - Game Server Logined : ServerID(1)

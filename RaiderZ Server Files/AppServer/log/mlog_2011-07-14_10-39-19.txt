@@ -1,0 +1,31 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/14/11 10:39:19)
+------------------------------------------------------------------------------
+[i] 10:39:19 - "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\AppServer\AppServer.exe"[i] 10:39:19 - Start application without service mode
+[i] 10:39:19 - application_commandline : "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\AppServer\AppServer.exe"
+[i] 10:39:19 - Server Socket Opened. (Port = 7502)
+[i] 10:39:21 - DBMS connected
+[i] 10:39:21 - Server Created. (WorldID=1 , ServerID=102)
+[i] 10:39:22 - Try To Connect To Server(localhost , 7500)
+[i] 10:39:26 - Not Servable. Not Connected To MasterServer.
+[i] 10:39:31 - Not Servable. Not Connected To MasterServer.
+[i] 10:39:32 - Try To Connect To Server(localhost , 7500)
+[i] 10:39:36 - Not Servable. Not Connected To MasterServer.
+[i] 10:39:41 - Not Servable. Not Connected To MasterServer.
+[i] 10:39:42 - Try To Connect To Server(localhost , 7500)
+[i] 10:39:46 - Not Servable. Not Connected To MasterServer.
+[i] 10:39:51 - Not Servable. Not Connected To MasterServer.
+[i] 10:39:52 - Try To Connect To Server(localhost , 7500)
+[i] 10:39:56 - Not Servable. Not Connected To MasterServer.
+[i] 10:40:01 - Not Servable. Not Connected To MasterServer.
+[i] 10:40:02 - Try To Connect To Server(localhost , 7500)
+[i] 10:40:06 - Not Servable. Not Connected To MasterServer.
+[i] 10:40:11 - Not Servable. Not Connected To MasterServer.
+[i] 10:40:12 - Try To Connect To Server(localhost , 7500)
+[i] 10:40:12 - Connected To MasterServer
+[i] 10:40:12 - MasterServer Login Success : Alloc UID = (1000000:3), ServerMode = NORMAL
+[i] 10:40:16 - server start! (Servable)
+[i] 10:40:19 - Game Server Logined : ServerID(2)
+[i] 10:46:29 - Client NetError (ErrorCode=10053)
+[i] 10:46:29 - Connected To MasterServer
+[i] 10:46:29 - Server Closed

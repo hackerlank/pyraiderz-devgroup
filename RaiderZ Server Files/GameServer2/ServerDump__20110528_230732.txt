@@ -1,0 +1,58 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (05/28/11 23:07:32)
+------------------------------------------------------------------------------
+23:07:32 - 
+====== Links ======
+23:07:32 - UID = (10000:19427) , Socket = 8756 
+23:07:32 - UID = (10000:103748) , Socket = 8748 
+23:07:32 - 
+====== Players ======
+23:07:32 - AID = 1 , ID = (null) , Name = aibeast , UID = (844613866:10000) , UIID = 103748 , CID = 3 , PS = 2
+23:07:32 - 	FieldID = 8891 , Field UID = (0:30) , Sector = (16,20) , pos = (49977.5,60522.0,2280.0) , dir = (-0.0,1.0,0.0)
+23:07:32 - AID = 17 , ID = (null) , Name = wanmei2 , UID = (844613082:10000) , UIID = 19427 , CID = 1 , PS = 18
+23:07:32 - 	FieldID = 107 , Field UID = (0:8) , Sector = (12,15) , pos = (37054.6,46550.9,424.0) , dir = (-0.7,0.7,0.0)
+23:07:32 - 
+====== Fields ======
+23:07:32 - SharedField(1:FIELD_NAME_1) , PlayerQty = 0 , UID = (0:1) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(1:FIELD_NAME_1) , PlayerQty = 0 , UID = (0:2) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(3:FIELD_NAME_3) , PlayerQty = 0 , UID = (0:3) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(101:FIELD_NAME_101) , PlayerQty = 0 , UID = (0:4) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(101:FIELD_NAME_101) , PlayerQty = 0 , UID = (0:5) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(102:FIELD_NAME_102) , PlayerQty = 0 , UID = (0:6) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(102:FIELD_NAME_102) , PlayerQty = 0 , UID = (0:7) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(107:FIELD_NAME_107) , PlayerQty = 1 , UID = (0:8) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(109:FIELD_NAME_109) , PlayerQty = 0 , UID = (0:9) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(110:FIELD_NAME_110) , PlayerQty = 0 , UID = (0:10) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(110:FIELD_NAME_110) , PlayerQty = 0 , UID = (0:11) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(111:FIELD_NAME_111) , PlayerQty = 0 , UID = (0:12) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(111:FIELD_NAME_111) , PlayerQty = 0 , UID = (0:13) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(113:FIELD_NAME_113) , PlayerQty = 0 , UID = (0:14) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(113:FIELD_NAME_113) , PlayerQty = 0 , UID = (0:15) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(117:FIELD_NAME_117) , PlayerQty = 0 , UID = (0:16) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(117:FIELD_NAME_117) , PlayerQty = 0 , UID = (0:17) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(121:FIELD_NAME_121) , PlayerQty = 0 , UID = (0:18) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(121:FIELD_NAME_121) , PlayerQty = 0 , UID = (0:19) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(500:FIELD_NAME_500) , PlayerQty = 0 , UID = (0:20) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(501:FIELD_NAME_501) , PlayerQty = 0 , UID = (0:21) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(501:FIELD_NAME_501) , PlayerQty = 0 , UID = (0:22) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(511:FIELD_NAME_511) , PlayerQty = 0 , UID = (0:23) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(511:FIELD_NAME_511) , PlayerQty = 0 , UID = (0:24) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(512:FIELD_NAME_512) , PlayerQty = 0 , UID = (0:25) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(512:FIELD_NAME_512) , PlayerQty = 0 , UID = (0:26) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(5000:FIELD_NAME_5000) , PlayerQty = 0 , UID = (0:27) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(5000:FIELD_NAME_5000) , PlayerQty = 0 , UID = (0:28) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(8005:FIELD_NAME_8005) , PlayerQty = 0 , UID = (0:29) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(8891:FIELD_NAME_8891) , PlayerQty = 1 , UID = (0:30) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(9999:FIELD_NAME_9999) , PlayerQty = 0 , UID = (0:31) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(113002:FIELD_NAME_113002) , PlayerQty = 0 , UID = (0:32) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(113002:FIELD_NAME_113002) , PlayerQty = 0 , UID = (0:33) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(113004:FIELD_NAME_113004) , PlayerQty = 0 , UID = (0:34) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(113004:FIELD_NAME_113004) , PlayerQty = 0 , UID = (0:35) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(1070130:FIELD_NAME_1070130) , PlayerQty = 0 , UID = (0:36) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(1070130:FIELD_NAME_1070130) , PlayerQty = 0 , UID = (0:37) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(1070460:FIELD_NAME_1070460) , PlayerQty = 0 , UID = (0:38) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(1070460:FIELD_NAME_1070460) , PlayerQty = 0 , UID = (0:39) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(1090000:FIELD_NAME_1090000) , PlayerQty = 0 , UID = (0:40) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(1090000:FIELD_NAME_1090000) , PlayerQty = 0 , UID = (0:41) , Channel = 2 , Default = TRUE 
+23:07:32 - SharedField(1090160:FIELD_NAME_1090160) , PlayerQty = 0 , UID = (0:42) , Channel = 1 , Default = TRUE 
+23:07:32 - SharedField(1090160:FIELD_NAME_1090160) , PlayerQty = 0 , UID = (0:43) , Channel = 2 , Default = TRUE 

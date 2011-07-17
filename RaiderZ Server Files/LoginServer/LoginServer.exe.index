@@ -1,0 +1,5 @@
+data/abuse.txt
+data/gamewords.txt
+data/name_allowedchars.txt
+data/name_illegalwords.txt
+server.ini

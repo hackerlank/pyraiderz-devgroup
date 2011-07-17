@@ -1,0 +1,304 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/14/11 11:00:38)
+------------------------------------------------------------------------------
+[i] 11:00:38 - Start application without service mode
+[i] 11:00:38 - revision: 28288, 2011-05-27 오후 03:36:49
+[i] 11:00:38 - pathengine init succeeded
+[i] 11:00:38 - commandline: "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\GameServer2\GameServer.exe"
+[i] 11:00:43 - Socket initialized
+[i] 11:00:44 - Create Sync Database success.
+[i] 11:00:44 - Create Async GameDB success.
+[i] 11:00:44 - Create Async LoginDB success.
+[i] 11:00:44 - Create Async LogDB success.
+[i] 11:00:44 - Create Async Database success.
+[i] 11:00:46 - NPCScriptLoad (id: 21)
+[i] 11:00:46 - NPCScriptLoad (id: 22)
+[i] 11:00:46 - NPCScriptLoad (id: 23)
+[i] 11:00:46 - NPCScriptLoad (id: 24)
+[i] 11:00:46 - NPCScriptLoad (id: 25)
+[i] 11:00:46 - NPCScriptLoad (id: 31)
+[i] 11:00:46 - NPCScriptLoad (id: 32)
+[i] 11:00:46 - NPCScriptLoad (id: 33)
+[i] 11:00:46 - NPCScriptLoad (id: 34)
+[i] 11:00:46 - NPCScriptLoad (id: 93)
+[i] 11:00:46 - NPCScriptLoad (id: 130)
+[i] 11:00:46 - NPCScriptLoad (id: 131)
+[i] 11:00:46 - NPCScriptLoad (id: 132)
+[i] 11:00:46 - NPCScriptLoad (id: 201)
+[i] 11:00:47 - NPCScriptLoad (id: 220)
+[i] 11:00:47 - NPCScriptLoad (id: 222)
+[i] 11:00:47 - NPCScriptLoad (id: 3018)
+[i] 11:00:47 - NPCScriptLoad (id: 3050)
+[i] 11:00:47 - NPCScriptLoad (id: 3073)
+[i] 11:00:47 - NPCScriptLoad (id: 3074)
+[i] 11:00:47 - NPCScriptLoad (id: 3075)
+[i] 11:00:47 - NPCScriptLoad (id: 3078)
+[i] 11:00:47 - NPCScriptLoad (id: 3079)
+[i] 11:00:47 - NPCScriptLoad (id: 107007)
+[i] 11:00:47 - NPCScriptLoad (id: 107010)
+[i] 11:00:47 - NPCScriptLoad (id: 109100)
+[i] 11:00:48 - NPCScriptLoad (id: 109123)
+[i] 11:00:48 - NPCScriptLoad (id: 109300)
+[i] 11:00:48 - NPCScriptLoad (id: 109316)
+[i] 11:00:48 - NPCScriptLoad (id: 110001)
+[i] 11:00:48 - NPCScriptLoad (id: 110002)
+[i] 11:00:48 - NPCScriptLoad (id: 110003)
+[i] 11:00:48 - NPCScriptLoad (id: 110005)
+[i] 11:00:48 - NPCScriptLoad (id: 110006)
+[i] 11:00:48 - NPCScriptLoad (id: 110007)
+[i] 11:00:48 - NPCScriptLoad (id: 110011)
+[i] 11:00:48 - NPCScriptLoad (id: 110014)
+[i] 11:00:48 - NPCScriptLoad (id: 110016)
+[i] 11:00:48 - NPCScriptLoad (id: 110017)
+[i] 11:00:48 - NPCScriptLoad (id: 110018)
+[i] 11:00:48 - NPCScriptLoad (id: 110019)
+[i] 11:00:48 - NPCScriptLoad (id: 110021)
+[i] 11:00:48 - NPCScriptLoad (id: 110024)
+[i] 11:00:48 - NPCScriptLoad (id: 110034)
+[i] 11:00:48 - NPCScriptLoad (id: 110220)
+[i] 11:00:48 - NPCScriptLoad (id: 110221)
+[i] 11:00:48 - NPCScriptLoad (id: 110222)
+[i] 11:00:48 - NPCScriptLoad (id: 110305)
+[i] 11:00:48 - NPCScriptLoad (id: 113010)
+[i] 11:00:48 - NPCScriptLoad (id: 113011)
+[i] 11:00:48 - NPCScriptLoad (id: 113012)
+[i] 11:00:48 - NPCScriptLoad (id: 113013)
+[i] 11:00:48 - NPCScriptLoad (id: 113069)
+[i] 11:00:48 - NPCScriptLoad (id: 113083)
+[i] 11:00:48 - NPCScriptLoad (id: 113084)
+[i] 11:00:48 - NPCScriptLoad (id: 113160)
+[i] 11:00:48 - NPCScriptLoad (id: 113162)
+[i] 11:00:48 - NPCScriptLoad (id: 512000)
+[i] 11:00:48 - NPCScriptLoad (id: 512001)
+[i] 11:00:48 - NPCScriptLoad (id: 512002)
+[i] 11:00:48 - NPCScriptLoad (id: 512003)
+[i] 11:00:48 - NPCScriptLoad (id: 512004)
+[i] 11:00:48 - NPCScriptLoad (id: 512005)
+[i] 11:00:48 - NPCScriptLoad (id: 512006)
+[i] 11:00:49 - NPCScriptLoad (id: 102110)
+[i] 11:00:49 - NPCScriptLoad (id: 102111)
+[i] 11:00:49 - NPCScriptLoad (id: 102112)
+[i] 11:00:49 - NPCScriptLoad (id: 111003)
+[i] 11:00:49 - NPCScriptLoad (id: 111034)
+[i] 11:00:49 - NPCScriptLoad (id: 101000)
+[i] 11:00:49 - NPCScriptLoad (id: 501000)
+[i] 11:00:49 - NPCScriptLoad (id: 501001)
+[i] 11:00:49 - NPCScriptLoad (id: 501002)
+[i] 11:00:49 - NPCScriptLoad (id: 501003)
+[i] 11:00:49 - NPCScriptLoad (id: 117000)
+[i] 11:00:49 - NPCScriptLoad (id: 117001)
+[i] 11:00:49 - NPCScriptLoad (id: 117002)
+[i] 11:00:49 - NPCScriptLoad (id: 105002)
+[i] 11:00:49 - NPCScriptLoad (id: 106001)
+[i] 11:00:49 - NPCScriptLoad (id: 121019)
+[i] 11:00:49 - NPCScriptLoad (id: 121205)
+[i] 11:00:49 - NPCScriptLoad (id: 121210)
+[i] 11:00:49 - NPCScriptLoad (id: 511000)
+[i] 11:00:49 - NPCScriptLoad (id: 112001)
+[i] 11:00:49 - NPCScriptLoad (id: 1000000)
+[i] 11:00:49 - NPCScriptLoad (id: 1000001)
+[i] 11:00:49 - NPCScriptLoad (id: 1000002)
+[i] 11:00:49 - NPCScriptLoad (id: 1000003)
+[i] 11:00:49 - NPCScriptLoad (id: 1000004)
+[i] 11:00:49 - NPCScriptLoad (id: 1000006)
+[i] 11:00:49 - NPCScriptLoad (id: 1000011)
+[i] 11:00:49 - NPCScriptLoad (id: 5000061)
+[i] 11:00:49 - NPCScriptLoad (id: 5000111)
+[i] 11:00:49 - NPCScriptLoad (id: 5000112)
+[i] 11:00:50 - NPCScriptLoad (id: 5000113)
+[i] 11:00:50 - NPCScriptLoad (id: 5000114)
+[i] 11:00:50 - NPCScriptLoad (id: 8894020)
+[i] 11:00:50 - NPCScriptLoad (id: 8894021)
+[i] 11:00:50 - NPCScriptLoad (id: 8894022)
+[i] 11:00:50 - NPCScriptLoad (id: 8894031)
+[i] 11:00:50 - NPCScriptLoad (id: 8895000)
+[i] 11:00:50 - NPCScriptLoad (id: 8895002)
+[i] 11:00:50 - LoadField(././field/1.field.xml)...Begin
+[i] 11:00:50 - FieldScriptLoad (id: 1)
+[i] 11:00:50 - LoadField(././field/3.field.xml)...Begin
+[i] 11:00:51 - FieldScriptLoad (id: 3)
+[i] 11:00:51 - LoadField(././field/101.field.xml)...Begin
+[i] 11:00:52 - FieldScriptLoad (id: 101)
+[i] 11:00:53 - LoadField(././field/102.field.xml)...Begin
+[i] 11:00:54 - FieldScriptLoad (id: 102)
+[i] 11:00:54 - LoadField(././field/107.field.xml)...Begin
+[i] 11:00:55 - FieldScriptLoad (id: 107)
+[i] 11:00:56 - LoadField(././field/109.field.xml)...Begin
+[i] 11:00:56 - FieldScriptLoad (id: 109)
+[i] 11:00:57 - LoadField(././field/110.field.xml)...Begin
+[i] 11:00:57 - FieldScriptLoad (id: 110)
+[i] 11:00:58 - LoadField(././field/111.field.xml)...Begin
+[i] 11:00:58 - FieldScriptLoad (id: 111)
+[i] 11:00:58 - LoadField(././field/113.field.xml)...Begin
+[i] 11:00:58 - FieldScriptLoad (id: 113)
+[i] 11:00:59 - LoadField(././field/117.field.xml)...Begin
+[i] 11:00:59 - FieldScriptLoad (id: 117)
+[i] 11:01:00 - LoadField(././field/121.field.xml)...Begin
+[i] 11:01:00 - LoadField(././field/500.field.xml)...Begin
+[i] 11:01:00 - LoadField(././field/501.field.xml)...Begin
+[i] 11:01:00 - FieldScriptLoad (id: 501)
+[i] 11:01:00 - LoadField(././field/511.field.xml)...Begin
+[i] 11:01:01 - LoadField(././field/512.field.xml)...Begin
+[i] 11:01:01 - LoadField(././field/5000.field.xml)...Begin
+[i] 11:01:01 - FieldScriptLoad (id: 5000)
+[i] 11:01:02 - LoadField(././field/8005.field.xml)...Begin
+[i] 11:01:02 - FieldScriptLoad (id: 8005)
+[i] 11:01:02 - LoadField(././field/8891.field.xml)...Begin
+[i] 11:01:02 - FieldScriptLoad (id: 8891)
+[i] 11:01:03 - LoadField(././field/8894.field.xml)...Begin
+[i] 11:01:03 - FieldScriptLoad (id: 8894)
+[i] 11:01:04 - LoadField(././field/9999.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/30292.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/30293.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/30294.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/30295.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/30296.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/50011.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/107090.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/107091.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/107092.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/107093.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/107095.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/113001.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 113001)
+[i] 11:01:04 - LoadField(././field/113002.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/113004.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/113090.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/113096.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/121001.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 121001)
+[i] 11:01:04 - LoadField(././field/121002.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 121002)
+[i] 11:01:04 - LoadField(././field/512001.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 512001)
+[i] 11:01:04 - LoadField(././field/1020201.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1020201)
+[i] 11:01:04 - LoadField(././field/1070130.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/1070131.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1070131)
+[i] 11:01:04 - LoadField(././field/1070161.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1070161)
+[i] 11:01:04 - LoadField(././field/1070460.field.xml)...Begin
+[i] 11:01:04 - LoadField(././field/1070461.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1070461)
+[i] 11:01:04 - LoadField(././field/1070541.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1070541)
+[i] 11:01:04 - LoadField(././field/1070542.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1070542)
+[i] 11:01:04 - LoadField(././field/1090000.field.xml)...Begin
+[i] 11:01:04 - FieldScriptLoad (id: 1090000)
+[i] 11:01:05 - LoadField(././field/1090021.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1090021)
+[i] 11:01:05 - LoadField(././field/1090111.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1090111)
+[i] 11:01:05 - LoadField(././field/1090160.field.xml)...Begin
+[i] 11:01:05 - LoadField(././field/1090161.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1090161)
+[i] 11:01:05 - LoadField(././field/1090162.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1090162)
+[i] 11:01:05 - LoadField(././field/1091031.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1091031)
+[i] 11:01:05 - LoadField(././field/1091041.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1091041)
+[i] 11:01:05 - LoadField(././field/1100001.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1100001)
+[i] 11:01:05 - LoadField(././field/1100181.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1100181)
+[i] 11:01:05 - LoadField(././field/1110331.field.xml)...Begin
+[i] 11:01:05 - FieldScriptLoad (id: 1110331)
+[i] 11:01:05 - Loaded Field Files: 58
+[i] 11:01:05 - Loaded Zone Files: 71
+[i] 11:01:05 - Loaded PickingZ Files: 31
+[i] 11:01:05 - QuestScriptLoad (id: 3006)
+[i] 11:01:05 - QuestScriptLoad (id: 3008)
+[i] 11:01:05 - QuestScriptLoad (id: 3010)
+[i] 11:01:05 - QuestScriptLoad (id: 101005)
+[i] 11:01:05 - QuestScriptLoad (id: 101011)
+[i] 11:01:05 - QuestScriptLoad (id: 101023)
+[i] 11:01:05 - QuestScriptLoad (id: 101026)
+[i] 11:01:05 - QuestScriptLoad (id: 102002)
+[i] 11:01:05 - QuestScriptLoad (id: 102005)
+[i] 11:01:05 - QuestScriptLoad (id: 102006)
+[i] 11:01:05 - QuestScriptLoad (id: 102010)
+[i] 11:01:05 - QuestScriptLoad (id: 102015)
+[i] 11:01:05 - QuestScriptLoad (id: 102020)
+[i] 11:01:05 - QuestScriptLoad (id: 102022)
+[i] 11:01:05 - QuestScriptLoad (id: 102023)
+[i] 11:01:05 - QuestScriptLoad (id: 102025)
+[i] 11:01:05 - QuestScriptLoad (id: 107051)
+[i] 11:01:05 - QuestScriptLoad (id: 107054)
+[i] 11:01:05 - QuestScriptLoad (id: 107081)
+[i] 11:01:05 - QuestScriptLoad (id: 107087)
+[i] 11:01:05 - QuestScriptLoad (id: 109001)
+[i] 11:01:05 - QuestScriptLoad (id: 109002)
+[i] 11:01:05 - QuestScriptLoad (id: 109005)
+[i] 11:01:05 - QuestScriptLoad (id: 109006)
+[i] 11:01:05 - QuestScriptLoad (id: 109007)
+[i] 11:01:05 - QuestScriptLoad (id: 109012)
+[i] 11:01:05 - QuestScriptLoad (id: 109015)
+[i] 11:01:05 - QuestScriptLoad (id: 109016)
+[i] 11:01:05 - QuestScriptLoad (id: 110005)
+[i] 11:01:05 - QuestScriptLoad (id: 110007)
+[i] 11:01:05 - QuestScriptLoad (id: 110018)
+[i] 11:01:05 - QuestScriptLoad (id: 110026)
+[i] 11:01:05 - QuestScriptLoad (id: 110028)
+[i] 11:01:05 - QuestScriptLoad (id: 110033)
+[i] 11:01:05 - QuestScriptLoad (id: 111001)
+[i] 11:01:05 - QuestScriptLoad (id: 111006)
+[i] 11:01:05 - QuestScriptLoad (id: 111007)
+[i] 11:01:05 - QuestScriptLoad (id: 111020)
+[i] 11:01:05 - QuestScriptLoad (id: 111021)
+[i] 11:01:05 - QuestScriptLoad (id: 111022)
+[i] 11:01:05 - QuestScriptLoad (id: 111023)
+[i] 11:01:05 - QuestScriptLoad (id: 111026)
+[i] 11:01:05 - QuestScriptLoad (id: 111031)
+[i] 11:01:05 - QuestScriptLoad (id: 111040)
+[i] 11:01:05 - QuestScriptLoad (id: 111041)
+[i] 11:01:05 - QuestScriptLoad (id: 111046)
+[i] 11:01:05 - QuestScriptLoad (id: 113072)
+[i] 11:01:05 - QuestScriptLoad (id: 113073)
+[i] 11:01:05 - QuestScriptLoad (id: 113080)
+[i] 11:01:05 - QuestScriptLoad (id: 113083)
+[i] 11:01:05 - QuestScriptLoad (id: 113090)
+[i] 11:01:05 - QuestScriptLoad (id: 113094)
+[i] 11:01:05 - QuestScriptLoad (id: 113102)
+[i] 11:01:05 - QuestScriptLoad (id: 113112)
+[i] 11:01:05 - QuestScriptLoad (id: 113113)
+[i] 11:01:05 - QuestScriptLoad (id: 113123)
+[i] 11:01:05 - QuestScriptLoad (id: 113126)
+[i] 11:01:05 - QuestScriptLoad (id: 113128)
+[i] 11:01:05 - QuestScriptLoad (id: 5000070)
+[i] 11:01:05 - QuestScriptLoad (id: 5000080)
+[i] 11:01:05 - QuestScriptLoad (id: 5000090)
+[i] 11:01:05 - QuestScriptLoad (id: 5000100)
+[i] 11:01:05 - Server Created. (WorldID=1 , ServerID=2)
+[e] 11:01:05 - ./script/npc/colt/0003032.colt.xml: 모스(3032).Colt.Idle.Default.Action1.talent: 유효하지 않은 TalentID(200303201).
+[e] 11:01:05 - ./script/npc/colt/0003032.colt.xml: 모스(3032).Colt.Idle.Default.Action1.talent: TalentID(200303201)는 none 탤런트이므로 액션 탤런트로 사용될 수 없습니다.
+[e] 11:01:05 - ./script/npc/colt/0113032.colt.xml: 미친 구울 광신자(113032).Colt.Combat.Default.Action3.talent: 유효하지 않은 TalentID(211303001).
+[e] 11:01:05 - ./script/npc/colt/0113032.colt.xml: 미친 구울 광신자(113032).Colt.Combat.Default.Action3.talent: TalentID(211303001)는 none 탤런트이므로 액션 탤런트로 사용될 수 없습니다.
+[e] 11:01:05 - ./script/npc/colt/0113032.colt.xml: 미친 구울 광신자(113032).Colt.Combat.Default.Action4.talent: 유효하지 않은 TalentID(211303003).
+[e] 11:01:05 - ./script/npc/colt/0113032.colt.xml: 미친 구울 광신자(113032).Colt.Combat.Default.Action4.talent: TalentID(211303003)는 none 탤런트이므로 액션 탤런트로 사용될 수 없습니다.
+[e] 11:01:05 - ./script/npc/colt/0113032.colt.xml: 미친 구울 광신자(113032).Colt.Combat.Check2.Action2.talent: 유효하지 않은 TalentID(211303003).
+[e] 11:01:05 - ./script/npc/colt/0113032.colt.xml: 미친 구울 광신자(113032).Colt.Combat.Check2.Action2.talent: TalentID(211303003)는 none 탤런트이므로 액션 탤런트로 사용될 수 없습니다.
+[e] 11:01:05 - ./system/talent.xml<TALENT id="52704" name="TALENT_NAME_52704">: TNeed_Talent이(가) ./system/talent.xml에 없습니다.
+[e] 11:01:05 - ./system/talent.xml<TALENT id="210600105" name="TALENT_NAME_210600105">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:05 - ./system/talent.xml<TALENT id="210600155" name="TALENT_NAME_210600155">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:05 - ./system/talent.xml<TALENT id="210910010" name="TALENT_NAME_210910010">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:05 - ./system/talent.xml<TALENT id="211700108" name="TALENT_NAME_211700108">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:05 - ./system/talent.xml<TALENT id="211700119" name="TALENT_NAME_211700119">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:05 - ./system/talent.xml<TALENT id="211700801" name="TALENT_NAME_211700801">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:05 - ./system/talent.xml<TALENT id="212100701" name="TALENT_NAME_212100701">: AABB x 최소값은 최대값보다 커야 합니다. 현재 AABB의 x 최소값 : 0.000000, x 최대값 : 0.000000
+[e] 11:01:06 - ./system/quest.xml<QUEST id="107013" title="QUEST_TITLE_107013"><REWARDS>: rewarder의 NPCID가 이(가) ./system/fieldlist.xml에 없습니다.
+[e] 11:01:06 - ./system/quest.xml<QUEST id="107019" title="QUEST_TITLE_107019"><REWARDS>: rewarder의 NPCID가 이(가) ./system/fieldlist.xml에 없습니다.
+[e] 11:01:06 - ./system/quest.xml<QUEST id="107088" title="QUEST_TITLE_107088"><REWARDS>: rewarder의 NPCID가 이(가) ./system/fieldlist.xml에 없습니다.
+[e] 11:01:06 - fieldlist.xml<FIELD id="107" name="FIELD_NAME_107">: Spawn.NPCID 정보를 찾을 수 없습니다. (SpawnID: 10000, NPCID: 8895003)
+[i] 11:01:06 - Validate Resource : Failed
+[i] 11:01:06 - Connected To MasterServer
+[i] 11:01:06 - MasterServer Login Failed(CommandResult = 101)
+[i] 11:01:06 - Disconnected From MasterServer
+[i] 11:01:06 - Begin logout all players.
+[i] 11:01:06 - End logout all players.
+[i] 11:01:06 - NO HAVE DB CACHE.
+[i] 11:01:06 - START DB RELEASE
+[i] 11:01:06 - COMPLETED DB RELEASE
+[i] 11:01:08 - ALREADY DB CACHE RELEASED.

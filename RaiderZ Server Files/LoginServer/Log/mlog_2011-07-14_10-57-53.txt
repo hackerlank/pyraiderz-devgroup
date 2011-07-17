@@ -1,0 +1,107 @@
+﻿------------------------------------------------------------------------------
+-- Logging Start (07/14/11 10:57:53)
+------------------------------------------------------------------------------
+[i] 10:57:53 - Start application without service mode
+[i] 10:57:53 - application_commandline : "C:\Raiderz\ragezone\RaiderZ Server Files\RaiderZ Server Files\LoginServer\LoginServer.exe"
+[i] 10:58:03 - Server Socket Opened. (Port = 7501)
+[i] 10:58:03 - Create Sync Database success.
+[i] 10:58:03 - Create Async AccountDB success.
+[i] 10:58:03 - Create Async GameDB success.
+[i] 10:58:03 - Create Async LogDB success.
+[i] 10:58:03 - Create Async Database Successed
+[i] 10:58:04 - Server Created. (WorldID=1 , ServerID=101)
+[i] 10:58:04 - Connected To MasterServer
+[i] 10:58:04 - MasterServer Login Success : Alloc UID = (1000000:3), ServerMode = NORMAL
+[i] 10:58:09 - Not Servable. Not Started All servers
+[i] 10:58:09 - 	Server ID = 100, Run = 0, Servable = 0
+[i] 10:58:09 - 	Server ID = 1, Run = 0, Servable = 0
+[i] 10:58:09 - 	Server ID = 102, Run = 0, Servable = 0
+[i] 10:58:14 - Not Servable. Not Started All servers
+[i] 10:58:14 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:14 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:14 - 	Server ID = 102, Run = 1, Servable = 0
+[i] 10:58:19 - Not Servable. Not Started All servers
+[i] 10:58:19 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:19 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:19 - 	Server ID = 102, Run = 1, Servable = 0
+[i] 10:58:24 - Not Servable. Not Started All servers
+[i] 10:58:24 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:24 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:29 - Not Servable. Not Started All servers
+[i] 10:58:29 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:29 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:35 - Not Servable. Not Started All servers
+[i] 10:58:35 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:35 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:40 - Not Servable. Not Started All servers
+[i] 10:58:40 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:40 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:45 - Not Servable. Not Started All servers
+[i] 10:58:45 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:45 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:50 - Not Servable. Not Started All servers
+[i] 10:58:50 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:50 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:58:55 - Not Servable. Not Started All servers
+[i] 10:58:55 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:58:55 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:00 - Not Servable. Not Started All servers
+[i] 10:59:00 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:00 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:05 - FPS = 20 , Link = 0 , Player = 0 , Recv BPS = 0 , Send BPS = 0
+[i] 10:59:05 - Not Servable. Not Started All servers
+[i] 10:59:05 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:05 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:10 - Not Servable. Not Started All servers
+[i] 10:59:10 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:10 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:15 - Not Servable. Not Started All servers
+[i] 10:59:15 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:15 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:20 - Not Servable. Not Started All servers
+[i] 10:59:20 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:20 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:25 - Not Servable. Not Started All servers
+[i] 10:59:25 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:25 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:30 - Not Servable. Not Started All servers
+[i] 10:59:30 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:30 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:35 - Not Servable. Not Started All servers
+[i] 10:59:35 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:35 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:40 - Not Servable. Not Started All servers
+[i] 10:59:40 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:40 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:45 - Not Servable. Not Started All servers
+[i] 10:59:45 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:45 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:50 - Not Servable. Not Started All servers
+[i] 10:59:50 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:50 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 10:59:55 - Not Servable. Not Started All servers
+[i] 10:59:55 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 10:59:55 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:00 - Not Servable. Not Started All servers
+[i] 11:00:00 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 11:00:00 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:05 - FPS = 20 , Link = 0 , Player = 0 , Recv BPS = 0 , Send BPS = 0
+[i] 11:00:05 - Not Servable. Not Started All servers
+[i] 11:00:05 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 11:00:05 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:10 - Not Servable. Not Started All servers
+[i] 11:00:10 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 11:00:10 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:15 - Not Servable. Not Started All servers
+[i] 11:00:15 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 11:00:15 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:20 - Not Servable. Not Started All servers
+[i] 11:00:20 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 11:00:20 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:25 - Not Servable. Not Started All servers
+[i] 11:00:25 - 	Server ID = 100, Run = 1, Servable = 0
+[i] 11:00:25 - 	Server ID = 1, Run = 0, Servable = 1
+[i] 11:00:29 - Client NetError (ErrorCode=10053)
+[i] 11:00:29 - Disconnected From MasterServer
+[i] 11:00:29 - LConsole > OnDestroy 
+[i] 11:00:30 - Server Closed
