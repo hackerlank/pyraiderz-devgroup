@@ -1,0 +1,1 @@
+Translation and XML editing of emulator files for RAIDERZ
